@@ -2,13 +2,17 @@
 
 #### Cache
 
-[2020 FAST] **Quiver: An Informed Storage Cache for Deep Learning**. [[PDF](https://www.usenix.org/system/files/fast20-kumar.pdf)] [[Slides](https://www.usenix.org/sites/default/files/conference/protected-files/fast20_slides_kumar.pdf)]
-
 [2021 VLDB] **Analyzing and Mitigating Data Stalls in DNN Training**. [[PDF](http://www.vldb.org/pvldb/vol14/p771-mohan.pdf)]
+
+[2020 FAST] **Quiver: An Informed Storage Cache for Deep Learning**. [[PDF](https://www.usenix.org/system/files/fast20-kumar.pdf)] [[Slides](https://www.usenix.org/sites/default/files/conference/protected-files/fast20_slides_kumar.pdf)]
 
 #### Checkpointing
 
+[2022 NSDI] **Check-N-Run: a Checkpointing System for Training Deep Learning Recommendation Models**. [[PDF](https://www.usenix.org/system/files/nsdi22-paper-eisenman.pdf)] [[Slides](https://www.usenix.org/system/files/nsdi22_slides_eisenman.pdf)]
+
 [2021 FAST] **CheckFreq: Frequent, Fine-Grained DNN Checkpointing**. [[PDF](https://www.usenix.org/system/files/fast21-mohan.pdf)] [[Slides](https://www.usenix.org/sites/default/files/conference/protected-files/fast21_slides_mohan.pdf)]
+
+[2020 CCGRID] **DeepFreeze: Towards Scalable Asynchronous Checkpointing of Deep Learning Models**. [[PDF](https://web.cels.anl.gov/~woz/papers/DeepFreeze_2020.pdf)]
 
 #### Data Pipeline
 
