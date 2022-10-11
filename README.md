@@ -2,15 +2,19 @@
 
 #### Fetch & Preprocessing
 
+[2022 ATC] **Cachew: Machine Learning Input Data Processing as a Service**. [[PDF](https://www.usenix.org/system/files/atc22-graur.pdf)]
+
 [2021 ATC] **Refurbish Your Training Data: Reusing Partially Augmented Samples for Faster Deep Neural Network Training**. [[PDF](https://www.usenix.org/system/files/atc21-lee.pdf)] [[Slides](https://www.usenix.org/system/files/atc21_slides_lee.pdf)]
 
-> cache partially augmented samples across all epochs
+> Preprocessing Stall: cache partially augmented samples across all epochs within a job
 
 [2021 VLDB] **Analyzing and Mitigating Data Stalls in DNN Training**. [[PDF](http://www.vldb.org/pvldb/vol14/p771-mohan.pdf)]
 
 > Hyperparameter (HP) Search: stage preprocessed minibatch across all HP jobs *within an epoch*
 
 [2020 FAST] **Quiver: An Informed Storage Cache for Deep Learning**. [[PDF](https://www.usenix.org/system/files/fast20-kumar.pdf)] [[Slides](https://www.usenix.org/sites/default/files/conference/protected-files/fast20_slides_kumar.pdf)]
+
+> Fetch Stall (Remote): share cached training data among multiple tasks
 
 #### Checkpointing
 
