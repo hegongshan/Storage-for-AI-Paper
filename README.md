@@ -1,8 +1,14 @@
 ### Storage for AI
 
-#### Cache
+#### Fetch & Preprocessing
+
+[2021 ATC] **Refurbish Your Training Data: Reusing Partially Augmented Samples for Faster Deep Neural Network Training**. [[PDF](https://www.usenix.org/system/files/atc21-lee.pdf)] [[Slides](https://www.usenix.org/system/files/atc21_slides_lee.pdf)]
+
+> cache partially augmented samples across all epochs
 
 [2021 VLDB] **Analyzing and Mitigating Data Stalls in DNN Training**. [[PDF](http://www.vldb.org/pvldb/vol14/p771-mohan.pdf)]
+
+> Hyperparameter (HP) Search: stage preprocessed minibatch across all HP jobs *within an epoch*
 
 [2020 FAST] **Quiver: An Informed Storage Cache for Deep Learning**. [[PDF](https://www.usenix.org/system/files/fast20-kumar.pdf)] [[Slides](https://www.usenix.org/sites/default/files/conference/protected-files/fast20_slides_kumar.pdf)]
 
