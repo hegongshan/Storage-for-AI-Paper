@@ -2,6 +2,8 @@
 
 #### Fetch & Preprocessing
 
+[2022 SIGMOD] **Where Is My Training Bottleneck? Hidden Trade-Offs in Deep Learning Preprocessing Pipelines**. [[PDF](https://dl.acm.org/doi/10.1145/3514221.3517848)] [[Recording](https://youtu.be/md5NWGsMHeo)]
+
 [2022 ATC] **Cachew: Machine Learning Input Data Processing as a Service**. [[PDF](https://www.usenix.org/system/files/atc22-graur.pdf)]
 
 [2021 ATC] **Refurbish Your Training Data: Reusing Partially Augmented Samples for Faster Deep Neural Network Training**. [[PDF](https://www.usenix.org/system/files/atc21-lee.pdf)] [[Slides](https://www.usenix.org/system/files/atc21_slides_lee.pdf)]
