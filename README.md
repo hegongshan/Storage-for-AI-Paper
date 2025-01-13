@@ -58,6 +58,10 @@
 
 [2024 TMC] **CheckBullet: A Lightweight Checkpointing System for Robust Model Training on Mobile Networks**. [[PDF](https://doi.org/10.1109/TMC.2024.3450283)]
 
+### Other
+
+[2023 PVLDB] **Efficient Fault Tolerance for Recommendation Model Training via Erasure Coding**. [[PDF](https://www.vldb.org/pvldb/vol16/p3137-kosaian.pdf)] [[Code](https://github.com/Thesys-lab/ECRec)]
+
 ## Benchmark
 
 [2020 MLSys] **MLPerf Training Benchmark**. [[PDF](https://proceedings.mlsys.org/paper/2020/file/02522a2b2726fb0a03bb19f2d8d9524d-Paper.pdf)]
