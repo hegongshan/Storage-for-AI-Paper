@@ -52,7 +52,9 @@
 
 [2024 ICML] **ExCP: Extreme LLM Checkpoint Compression via Weight-Momentum Joint Shrinking**. [[PDF](https://openreview.net/pdf?id=hlvKd7Vdxm)] [[Code](https://github.com/Gaffey/ExCP)]
 
-[2024 SoCC] **Inshrinkerator: Compressing Deep Learning Training Checkpoints via Dynamic Quantization**. [[PDF](https://kexinrong.github.io/papers/inshrink-socc24.pdf)]
+[2024 ICCD] **ParaCkpt: Heterogeneous Multi-Path Checkpointing Mechanism for Training Deep Learning Models**. [[PDF](https://doi.org/10.1109/ICCD63220.2024.00036)]
+
+[2024 SoCC] **Inshrinkerator: Compressing Deep Learning Training Checkpoints via Dynamic Quantization**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/3698038.3698553)]
 
 [2024 TMC] **CheckBullet: A Lightweight Checkpointing System for Robust Model Training on Mobile Networks**. [[PDF](https://doi.org/10.1109/TMC.2024.3450283)]
 
