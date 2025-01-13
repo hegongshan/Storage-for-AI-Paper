@@ -62,6 +62,8 @@
 
 [2023 NSDI] **Bamboo: Making Preemptible Instances Resilient for Affordable Training of Large DNNs**. [[PDF](https://www.usenix.org/system/files/nsdi23-thorpe.pdf)] [[Slides](https://www.usenix.org/system/files/nsdi23_slides_thorpe-john.pdf)] [[Code](https://github.com/uclasystem/bamboo)]
 
+[2023 SOSP] **Oobleck: Resilient Distributed Training of Large Models Using Pipeline Templates**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/3600006.3613152)] [[Code](https://github.com/SymbioticLab/Oobleck)]
+
 [2023 PVLDB] **Efficient Fault Tolerance for Recommendation Model Training via Erasure Coding**. [[PDF](https://www.vldb.org/pvldb/vol16/p3137-kosaian.pdf)] [[Code](https://github.com/Thesys-lab/ECRec)]
 
 ## Benchmark
