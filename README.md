@@ -68,6 +68,8 @@
 
 [2024 TPDS] **Swift: Expedited Failure Recovery for Large-scale DNN Training**. [[PDF](https://i2.cs.hku.hk/~cwu/papers/yczhong-tpds24.pdf)] [[Code](https://github.com/jasperzhong/swift)]
 
+[2024 SOSP] **ReCycle: Resilient Training of Large DNNs using Pipeline Adaptation**. [[PDF](https://dl.acm.org/doi/abs/10.1145/3694715.3695960) [[Slides](https://swapnilgandhi.com/slides/recycle-sosp24.pdf)] [[Poster](https://swapnilgandhi.com/posters/ReCycle_SOSP.pdf)]
+
 ## Benchmark
 
 [2020 MLSys] **MLPerf Training Benchmark**. [[PDF](https://proceedings.mlsys.org/paper/2020/file/02522a2b2726fb0a03bb19f2d8d9524d-Paper.pdf)]
