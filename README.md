@@ -1,5 +1,13 @@
 # Storage for AI
 
+* [1.Data Preparation](#data-preparation)
+* [2.Model Training & Inference](#model-training-&-inference)
+    * [2.1 Fault Tolerance](#fault-tolerance)
+        * [2.1.1 Checkpointing](#checkpointing)
+        * [2.1.2 Others](#others)
+    * [2.2 KV Cache](#kv-cache)
+* [3.Benchmark](#benchmark)
+
 ## Data Preparation
 
 [2019 CLUSTER] **Efficient User-Level Storage Disaggregation for Deep Learning**. [[PDF](https://par.nsf.gov/servlets/purl/10156300)]
@@ -66,7 +74,7 @@
 
 [2025 FCS] **BAFT: bubble-aware fault-tolerant framework for distributed DNN training with hybrid parallelism**. [[PDF](https://journal.hep.com.cn/fcs/EN/article/downloadArticleFile.do?attachType=PDF&id=35982)]
 
-#### Other
+#### Others
 
 [2023 NSDI] **Bamboo: Making Preemptible Instances Resilient for Affordable Training of Large DNNs**. [[PDF](https://www.usenix.org/system/files/nsdi23-thorpe.pdf)] [[Slides](https://www.usenix.org/system/files/nsdi23_slides_thorpe-john.pdf)] [[Code](https://github.com/uclasystem/bamboo)]
 
@@ -77,6 +85,10 @@
 [2024 TPDS] **Swift: Expedited Failure Recovery for Large-scale DNN Training**. [[PDF](https://i2.cs.hku.hk/~cwu/papers/yczhong-tpds24.pdf)] [[Code](https://github.com/jasperzhong/swift)]
 
 [2024 SOSP] **ReCycle: Resilient Training of Large DNNs using Pipeline Adaptation**. [[PDF](https://dl.acm.org/doi/abs/10.1145/3694715.3695960) [[Slides](https://swapnilgandhi.com/slides/recycle-sosp24.pdf)] [[Poster](https://swapnilgandhi.com/posters/ReCycle_SOSP.pdf)]
+
+### KV Cache
+
+[2023 SOSP] **Efficient Memory Management for Large Language Model Serving with PagedAttention**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/3600006.3613165)] [[Code](https://github.com/vllm-project/vllm)]
 
 ## Benchmark
 
