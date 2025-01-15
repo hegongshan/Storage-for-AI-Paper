@@ -16,15 +16,21 @@
 
 [2022 SIGMOD] **Where Is My Training Bottleneck? Hidden Trade-Offs in Deep Learning Preprocessing Pipelines**. [[PDF](https://dl.acm.org/doi/10.1145/3514221.3517848)] [[Recording](https://youtu.be/md5NWGsMHeo)]
 
-[2022 ATC] **Cachew: Machine Learning Input Data Processing as a Service**. [[PDF](https://www.usenix.org/system/files/atc22-graur.pdf)]
+[2022 ATC] **Cachew: Machine Learning Input Data Processing as a Service**. [[PDF](https://www.usenix.org/system/files/atc22-graur.pdf)] [[Code](https://github.com/eth-easl/cachew)]
 
 [2022 TPDS] **DIESEL+: Accelerating Distributed Deep Learning Tasks on Image Datasets**. [[PDF](https://doi.org/10.1109/TPDS.2021.3104252)]
 
 [2023 ATC] **Tectonic-Shift: A Composite Storage Fabric for Large-Scale ML Training**. [[PDF](https://www.usenix.org/system/files/atc23-zhao.pdf)] [[Slides](https://www.usenix.org/system/files/atc23_slides_zhao.pdf)]
 
+[2023 SoCC] **tf.data service: A Case for Disaggregating ML Input Data Processing**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/3620678.3624666)]
+
+[2024 ATC] **Pecan: Cost-Efficient ML Data Preprocessing with Automatic Transformation Ordering and Hybrid Placement**. [[PDF](https://www.usenix.org/system/files/atc24-graur.pdf)] [[Code](https://github.com/eth-easl/cachew/tree/pecan)]
+
 ## Model Training & Inference
 
-### Checkpointing
+### Fault Tolerance
+
+#### Checkpointing
 
 [2020 CCGRID] **DeepFreeze: Towards Scalable Asynchronous Checkpointing of Deep Learning Models**. [[PDF](https://web.cels.anl.gov/~woz/papers/DeepFreeze_2020.pdf)]
 
@@ -60,7 +66,7 @@
 
 [2025 FCS] **BAFT: bubble-aware fault-tolerant framework for distributed DNN training with hybrid parallelism**. [[PDF](https://journal.hep.com.cn/fcs/EN/article/downloadArticleFile.do?attachType=PDF&id=35982)]
 
-### Other
+#### Other
 
 [2023 NSDI] **Bamboo: Making Preemptible Instances Resilient for Affordable Training of Large DNNs**. [[PDF](https://www.usenix.org/system/files/nsdi23-thorpe.pdf)] [[Slides](https://www.usenix.org/system/files/nsdi23_slides_thorpe-john.pdf)] [[Code](https://github.com/uclasystem/bamboo)]
 
