@@ -29,6 +29,8 @@
 
 [2022 TPDS] **DIESEL+: Accelerating Distributed Deep Learning Tasks on Image Datasets**. [[PDF](https://doi.org/10.1109/TPDS.2021.3104252)]
 
+[2022 CLUSTER] **Hvac: Removing I/O Bottleneck for Large-Scale Deep Learning Applications**. [[PDF](https://doi.org/10.1109/CLUSTER51413.2022.00044)]
+
 [2023 ATC] **Tectonic-Shift: A Composite Storage Fabric for Large-Scale ML Training**. [[PDF](https://www.usenix.org/system/files/atc23-zhao.pdf)] [[Slides](https://www.usenix.org/system/files/atc23_slides_zhao.pdf)]
 
 [2023 SoCC] **tf.data service: A Case for Disaggregating ML Input Data Processing**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/3620678.3624666)]
