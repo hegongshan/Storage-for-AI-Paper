@@ -5,7 +5,8 @@
     * [2.1 Fault Tolerance](#fault-tolerance)
         * [2.1.1 Checkpointing](#checkpointing)
         * [2.1.2 Others](#others)
-    * [2.2 KV Cache](#kv-cache)
+    * [2.2 Model Repository](#model-repository)
+    * [2.3 KV Cache](#kv-cache)
 * [3.Benchmark](#benchmark)
 
 ## Data Preparation
@@ -85,6 +86,12 @@
 [2024 TPDS] **Swift: Expedited Failure Recovery for Large-scale DNN Training**. [[PDF](https://i2.cs.hku.hk/~cwu/papers/yczhong-tpds24.pdf)] [[Code](https://github.com/jasperzhong/swift)]
 
 [2024 SOSP] **ReCycle: Resilient Training of Large DNNs using Pipeline Adaptation**. [[PDF](https://dl.acm.org/doi/abs/10.1145/3694715.3695960) [[Slides](https://swapnilgandhi.com/slides/recycle-sosp24.pdf)] [[Poster](https://swapnilgandhi.com/posters/ReCycle_SOSP.pdf)]
+
+### Model Repository
+
+[2023 ICS] **DStore: A Lightweight Scalable Learning Model Repository with Fine-Grain Tensor-Level Access**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/3577193.3593730)]
+
+[2024 HPDC] **EvoStore: Towards Scalable Storage of Evolving Learning Models**. [[PDF](https://dl.acm.org/doi/abs/10.1145/3625549.3658679)]
 
 ### KV Cache
 
