@@ -31,6 +31,10 @@
 
 [2022 CLUSTER] **Hvac: Removing I/O Bottleneck for Large-Scale Deep Learning Applications**. [[PDF](https://doi.org/10.1109/CLUSTER51413.2022.00044)]
 
+[2023 FAST] **SHADE: Enable Fundamental Cacheability for Distributed Deep Learning Training**. [[PDF](https://www.usenix.org/system/files/fast23-khan.pdf)] [[Slides](https://www.usenix.org/sites/default/files/conference/protected-files/fast23_slides_khan.pdf)] [[Code](https://github.com/rkhan055/SHADE)]
+
+[2023 HPCA] **iCache: An Importance-Sampling-Informed Cache for Accelerating I/O-Bound DNN Model Training**. [[PDF](http://www.cs.iit.edu/~scs/assets/files/chen2023icache.pdf)] [[Slides](http://cs.iit.edu/~scs/assets/files/chen2023icache-slides.pdf)] [[Code](https://github.com/ISCS-ZJU/iCache)]
+
 [2023 ATC] **Tectonic-Shift: A Composite Storage Fabric for Large-Scale ML Training**. [[PDF](https://www.usenix.org/system/files/atc23-zhao.pdf)] [[Slides](https://www.usenix.org/system/files/atc23_slides_zhao.pdf)]
 
 [2023 SoCC] **tf.data service: A Case for Disaggregating ML Input Data Processing**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/3620678.3624666)]
