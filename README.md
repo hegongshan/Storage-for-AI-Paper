@@ -79,6 +79,8 @@
 
 [2024 TMC] **CheckBullet: A Lightweight Checkpointing System for Robust Model Training on Mobile Networks**. [[PDF](https://doi.org/10.1109/TMC.2024.3450283)]
 
+[2025 FGCS] COCI: **Convergence-aware optimal checkpointing for exploratory deep learning training jobs**. [[PDF](https://doi.org/10.1016/j.future.2024.107597)] [[Code](https://github.com/wangzc-HPC/COCI)]
+
 [2025 FCS] **BAFT: bubble-aware fault-tolerant framework for distributed DNN training with hybrid parallelism**. [[PDF](https://journal.hep.com.cn/fcs/EN/article/downloadArticleFile.do?attachType=PDF&id=35982)]
 
 #### Others
