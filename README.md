@@ -105,6 +105,10 @@
 
 [2023 SOSP] **Efficient Memory Management for Large Language Model Serving with PagedAttention**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/3600006.3613165)] [[Code](https://github.com/vllm-project/vllm)]
 
+[2025 FAST] **Mooncake: Trading More Storage for Less Computation — A KVCache-centric Architecture for Serving LLM Chatbot**. [[PDF](https://www.usenix.org/system/files/fast25-qin.pdf)] [[Slides](https://www.usenix.org/system/files/fast25_slides-qin.pdf)] [[Code](https://github.com/kvcache-ai/Mooncake)]
+
+[2025 FAST] **IMPRESS: An Importance-Informed Multi-Tier Prefix KV Storage System for Large Language Model Inference**. [[PDF](https://www.usenix.org/system/files/fast25-chen-weijian-impress.pdf)] [[Slides](https://www.usenix.org/system/files/fast25_slides-chen_weijian_impress.pdf)]
+
 ## Benchmark
 
 [2021 CCGrid] **DLIO: A Data-Centric Benchmark for Scientific Deep Learning Applications**. [[PDF](http://www.cs.iit.edu/~scs/assets/files/devarajan2021dlio.pdf)] [[Code](https://github.com/argonne-lcf/dlio_benchmark)]
