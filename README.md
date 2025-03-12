@@ -83,6 +83,8 @@
 
 [2025 FCS] **BAFT: bubble-aware fault-tolerant framework for distributed DNN training with hybrid parallelism**. [[PDF](https://journal.hep.com.cn/fcs/EN/article/downloadArticleFile.do?attachType=PDF&id=35982)]
 
+[2025 ASPLOS] **PCcheck: Persistent Concurrent Checkpointing for ML**. [[PDF](https://fotstrt.github.io/files/2025-pccheck.pdf)] [[Code](https://github.com/eth-easl/pccheck)]
+
 #### Others
 
 [2023 NSDI] **Bamboo: Making Preemptible Instances Resilient for Affordable Training of Large DNNs**. [[PDF](https://www.usenix.org/system/files/nsdi23-thorpe.pdf)] [[Slides](https://www.usenix.org/system/files/nsdi23_slides_thorpe-john.pdf)] [[Code](https://github.com/uclasystem/bamboo)]
