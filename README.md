@@ -8,6 +8,7 @@
     * [2.2 Model Repository](#model-repository)
     * [2.3 KV Cache](#kv-cache)
 * [3.Benchmark](#benchmark)
+* [4.Survey](#survey)
 
 ## Data Preparation
 
@@ -114,3 +115,9 @@
 ## Benchmark
 
 [2021 CCGrid] **DLIO: A Data-Centric Benchmark for Scientific Deep Learning Applications**. [[PDF](http://www.cs.iit.edu/~scs/assets/files/devarajan2021dlio.pdf)] [[Code](https://github.com/argonne-lcf/dlio_benchmark)]
+
+## Survey
+
+[2024 JCRD] **From BERT to ChatGPT: Challenges and Technical Development of Storage Systems for Large Model Training** (in Chinese). [[PDF](https://dx.doi.org/10.7544/issn1000-1239.202330554)]
+
+[2025 ACM Computing Surveys] **I/O in Machine Learning Applications on HPC Systems: A 360-degree Survey**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/3722215)]
