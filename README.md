@@ -121,3 +121,5 @@
 [2024 JCRD] **From BERT to ChatGPT: Challenges and Technical Development of Storage Systems for Large Model Training** (in Chinese). [[PDF](https://dx.doi.org/10.7544/issn1000-1239.202330554)]
 
 [2025 ACM Computing Surveys] **I/O in Machine Learning Applications on HPC Systems: A 360-degree Survey**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/3722215)]
+
+[2025 JCRD] **Survey of Storage Optimization Techniques in Large Language Model Inference** (in Chinese). [[PDF](https://dx.doi.org/10.7544/issn1000-1239.202440628)]
