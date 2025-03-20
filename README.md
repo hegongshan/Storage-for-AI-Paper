@@ -3,7 +3,8 @@
 * [1.Data Preparation](#data-preparation)
     * [2.1 File Format](#file-format)
     * [2.2 Storage System](#storage-system)
-    * [2.3 Other](#other)
+    * [2.3 Caching System](#caching-system)
+    * [2.4 Data Pipeline](#data-pipeline)
 * [2.Model Training & Inference](#model-training-&-inference)
     * [2.1 Fault Tolerance](#fault-tolerance)
         * [2.1.1 Checkpointing](#checkpointing)
@@ -24,6 +25,8 @@
 
 [2024 PACMMOD] **The Image Calculator: 10x Faster Image-AI Inference by Replacing JPEG with Self-designing Storage Format**. [[PDF](https://dl.acm.org/doi/abs/10.1145/3639307)]
 
+[2025 PVLDB] **Frequency-Store: Scaling Image AI by A Column-Store for Images**. [[PDF](https://www.vldb.org/cidrdb/papers/2025/p27-sirin.pdf)]
+
 ### Storage System
 
 [2019 CLUSTER] DLFS: **Efficient User-Level Storage Disaggregation for Deep Learning**. [[PDF](https://par.nsf.gov/servlets/purl/10156300)]
@@ -36,11 +39,19 @@
 
 [2024 SC] 3FS: **Fire-Flyer AI-HPC: A Cost-Effective Software-Hardware Co-Design for Deep Learning**. [[PDF](https://arxiv.org/pdf/2408.14158)] [[Code](https://github.com/deepseek-ai/3FS)]
 
-### Other
+### Caching System
 
 [2020 FAST] **Quiver: An Informed Storage Cache for Deep Learning**. [[PDF](https://www.usenix.org/system/files/fast20-kumar.pdf)] [[Slides](https://www.usenix.org/sites/default/files/conference/protected-files/fast20_slides_kumar.pdf)]
 
 [2021 VLDB] **Analyzing and Mitigating Data Stalls in DNN Training**. [[PDF](http://www.vldb.org/pvldb/vol14/p771-mohan.pdf)] [[DS-Analyzer](https://github.com/msr-fiddle/DS-Analyzer)] [[CoorDL Code](https://github.com/msr-fiddle/CoorDL)]
+
+[2022 CLUSTER] **Hvac: Removing I/O Bottleneck for Large-Scale Deep Learning Applications**. [[PDF](https://doi.org/10.1109/CLUSTER51413.2022.00044)]
+
+[2023 FAST] **SHADE: Enable Fundamental Cacheability for Distributed Deep Learning Training**. [[PDF](https://www.usenix.org/system/files/fast23-khan.pdf)] [[Slides](https://www.usenix.org/sites/default/files/conference/protected-files/fast23_slides_khan.pdf)] [[Code](https://github.com/rkhan055/SHADE)]
+
+[2023 HPCA] **iCache: An Importance-Sampling-Informed Cache for Accelerating I/O-Bound DNN Model Training**. [[PDF](http://www.cs.iit.edu/~scs/assets/files/chen2023icache.pdf)] [[Slides](http://cs.iit.edu/~scs/assets/files/chen2023icache-slides.pdf)] [[Code](https://github.com/ISCS-ZJU/iCache)]
+
+### Data Pipeline
 
 [2021 VLDB] **tf.data: A Machine Learning Data Processing Framework**. [[PDF](http://www.vldb.org/pvldb/vol14/p2945-klimovic.pdf)]
 
@@ -49,15 +60,6 @@
 [2022 SIGMOD] **Where Is My Training Bottleneck? Hidden Trade-Offs in Deep Learning Preprocessing Pipelines**. [[PDF](https://dl.acm.org/doi/10.1145/3514221.3517848)] [[Recording](https://youtu.be/md5NWGsMHeo)] [[Code](https://github.com/cirquit/presto)]
 
 [2022 ATC] **Cachew: Machine Learning Input Data Processing as a Service**. [[PDF](https://www.usenix.org/system/files/atc22-graur.pdf)] [[Code](https://github.com/eth-easl/cachew)]
-
-
-[2022 CLUSTER] **Hvac: Removing I/O Bottleneck for Large-Scale Deep Learning Applications**. [[PDF](https://doi.org/10.1109/CLUSTER51413.2022.00044)]
-
-[2023 FAST] **SHADE: Enable Fundamental Cacheability for Distributed Deep Learning Training**. [[PDF](https://www.usenix.org/system/files/fast23-khan.pdf)] [[Slides](https://www.usenix.org/sites/default/files/conference/protected-files/fast23_slides_khan.pdf)] [[Code](https://github.com/rkhan055/SHADE)]
-
-[2023 HPCA] **iCache: An Importance-Sampling-Informed Cache for Accelerating I/O-Bound DNN Model Training**. [[PDF](http://www.cs.iit.edu/~scs/assets/files/chen2023icache.pdf)] [[Slides](http://cs.iit.edu/~scs/assets/files/chen2023icache-slides.pdf)] [[Code](https://github.com/ISCS-ZJU/iCache)]
-
-[2023 ATC] **Tectonic-Shift: A Composite Storage Fabric for Large-Scale ML Training**. [[PDF](https://www.usenix.org/system/files/atc23-zhao.pdf)] [[Slides](https://www.usenix.org/system/files/atc23_slides_zhao.pdf)]
 
 [2023 SoCC] **tf.data service: A Case for Disaggregating ML Input Data Processing**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/3620678.3624666)]
 
