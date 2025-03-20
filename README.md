@@ -1,6 +1,9 @@
 # Storage for AI
 
 * [1.Data Preparation](#data-preparation)
+    * [2.1 File Format](#file-format)
+    * [2.2 Storage System](#storage-system)
+    * [2.3 Other](#other)
 * [2.Model Training & Inference](#model-training-&-inference)
     * [2.1 Fault Tolerance](#fault-tolerance)
         * [2.1.1 Checkpointing](#checkpointing)
@@ -13,11 +16,29 @@
 
 ## Data Preparation
 
-[2019 CLUSTER] **Efficient User-Level Storage Disaggregation for Deep Learning**. [[PDF](https://par.nsf.gov/servlets/purl/10156300)]
+### File Format
 
-[2020 FAST] **Quiver: An Informed Storage Cache for Deep Learning**. [[PDF](https://www.usenix.org/system/files/fast20-kumar.pdf)] [[Slides](https://www.usenix.org/sites/default/files/conference/protected-files/fast20_slides_kumar.pdf)]
+[2021 PVLDB] **Progressive Compressed Records: Taking a Byte out of Deep Learning Data**. [[PDF](https://vldb.org/pvldb/vol14/p2627-kuchnik.pdf)] [[Code](https://github.com/mkuchnik/PCR_Release)]
+
+[2022 ECCV] **L3: Accelerator-Friendly Lossless Image Format for High-Resolution, High-Throughput DNN Training**. [[PDF](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136710171.pdf)]
+
+[2024 PACMMOD] **The Image Calculator: 10x Faster Image-AI Inference by Replacing JPEG with Self-designing Storage Format**. [[PDF](https://dl.acm.org/doi/abs/10.1145/3639307)]
+
+### Storage System
+
+[2019 CLUSTER] DLFS: **Efficient User-Level Storage Disaggregation for Deep Learning**. [[PDF](https://par.nsf.gov/servlets/purl/10156300)]
 
 [2020 ICPP] **DIESEL: A Dataset-Based Distributed Storage and Caching System for Large-Scale Deep Learning Training**. [[PDF](https://dl.acm.org/doi/abs/10.1145/3404397.3404472)] [[Slides](https://jnamaral.github.io/icpp20/slides/Wang_DIESEL.pdf)]
+
+[2022 TPDS] **DIESEL+: Accelerating Distributed Deep Learning Tasks on Image Datasets**. [[PDF](https://doi.org/10.1109/TPDS.2021.3104252)]
+
+[2023 ATC] **Tectonic-Shift: A Composite Storage Fabric for Large-Scale ML Training**. [[PDF](https://www.usenix.org/system/files/atc23-zhao.pdf)] [[Slides](https://www.usenix.org/system/files/atc23_slides_zhao.pdf)]
+
+[2024 SC] 3FS: **Fire-Flyer AI-HPC: A Cost-Effective Software-Hardware Co-Design for Deep Learning**. [[PDF](https://arxiv.org/pdf/2408.14158)] [[Code](https://github.com/deepseek-ai/3FS)]
+
+### Other
+
+[2020 FAST] **Quiver: An Informed Storage Cache for Deep Learning**. [[PDF](https://www.usenix.org/system/files/fast20-kumar.pdf)] [[Slides](https://www.usenix.org/sites/default/files/conference/protected-files/fast20_slides_kumar.pdf)]
 
 [2021 VLDB] **Analyzing and Mitigating Data Stalls in DNN Training**. [[PDF](http://www.vldb.org/pvldb/vol14/p771-mohan.pdf)] [[DS-Analyzer](https://github.com/msr-fiddle/DS-Analyzer)] [[CoorDL Code](https://github.com/msr-fiddle/CoorDL)]
 
@@ -29,7 +50,6 @@
 
 [2022 ATC] **Cachew: Machine Learning Input Data Processing as a Service**. [[PDF](https://www.usenix.org/system/files/atc22-graur.pdf)] [[Code](https://github.com/eth-easl/cachew)]
 
-[2022 TPDS] **DIESEL+: Accelerating Distributed Deep Learning Tasks on Image Datasets**. [[PDF](https://doi.org/10.1109/TPDS.2021.3104252)]
 
 [2022 CLUSTER] **Hvac: Removing I/O Bottleneck for Large-Scale Deep Learning Applications**. [[PDF](https://doi.org/10.1109/CLUSTER51413.2022.00044)]
 
