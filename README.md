@@ -19,6 +19,8 @@
 
 ### File Format
 
+[2019 Big Data] WebDataset: **High Performance I/O For Large Scale Deep Learning**. [[PDF](https://arxiv.org/pdf/2001.01858)] [[Poster](https://storagetarget.com/wp-content/uploads/2019/12/deep-learning-large-scale-phys-poster-1.pdf)] [[Code](https://github.com/webdataset/webdataset)]
+
 [2021 PVLDB] **Progressive Compressed Records: Taking a Byte out of Deep Learning Data**. [[PDF](https://vldb.org/pvldb/vol14/p2627-kuchnik.pdf)] [[Code](https://github.com/mkuchnik/PCR_Release)]
 
 [2022 ECCV] **L3: Accelerator-Friendly Lossless Image Format for High-Resolution, High-Throughput DNN Training**. [[PDF](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136710171.pdf)]
@@ -30,6 +32,8 @@
 ### Storage System
 
 [2019 CLUSTER] DLFS: **Efficient User-Level Storage Disaggregation for Deep Learning**. [[PDF](https://par.nsf.gov/servlets/purl/10156300)]
+
+[2019 Big Data] AIStore: **High Performance I/O For Large Scale Deep Learning**. [[PDF](https://arxiv.org/pdf/2001.01858)] [[Poster](https://storagetarget.com/wp-content/uploads/2019/12/deep-learning-large-scale-phys-poster-1.pdf)] [[Code](https://github.com/NVIDIA/aistore)]
 
 [2020 ICPP] **DIESEL: A Dataset-Based Distributed Storage and Caching System for Large-Scale Deep Learning Training**. [[PDF](https://dl.acm.org/doi/abs/10.1145/3404397.3404472)] [[Slides](https://jnamaral.github.io/icpp20/slides/Wang_DIESEL.pdf)]
 
@@ -43,8 +47,6 @@
 
 [2020 FAST] **Quiver: An Informed Storage Cache for Deep Learning**. [[PDF](https://www.usenix.org/system/files/fast20-kumar.pdf)] [[Slides](https://www.usenix.org/sites/default/files/conference/protected-files/fast20_slides_kumar.pdf)]
 
-[2021 VLDB] **Analyzing and Mitigating Data Stalls in DNN Training**. [[PDF](http://www.vldb.org/pvldb/vol14/p771-mohan.pdf)] [[DS-Analyzer](https://github.com/msr-fiddle/DS-Analyzer)] [[CoorDL Code](https://github.com/msr-fiddle/CoorDL)]
-
 [2022 CLUSTER] **Hvac: Removing I/O Bottleneck for Large-Scale Deep Learning Applications**. [[PDF](https://doi.org/10.1109/CLUSTER51413.2022.00044)]
 
 [2023 FAST] **SHADE: Enable Fundamental Cacheability for Distributed Deep Learning Training**. [[PDF](https://www.usenix.org/system/files/fast23-khan.pdf)] [[Slides](https://www.usenix.org/sites/default/files/conference/protected-files/fast23_slides_khan.pdf)] [[Code](https://github.com/rkhan055/SHADE)]
@@ -52,6 +54,8 @@
 [2023 HPCA] **iCache: An Importance-Sampling-Informed Cache for Accelerating I/O-Bound DNN Model Training**. [[PDF](http://www.cs.iit.edu/~scs/assets/files/chen2023icache.pdf)] [[Slides](http://cs.iit.edu/~scs/assets/files/chen2023icache-slides.pdf)] [[Code](https://github.com/ISCS-ZJU/iCache)]
 
 ### Data Pipeline
+
+[2021 VLDB] **Analyzing and Mitigating Data Stalls in DNN Training**. [[PDF](http://www.vldb.org/pvldb/vol14/p771-mohan.pdf)] [[DS-Analyzer](https://github.com/msr-fiddle/DS-Analyzer)] [[CoorDL Code](https://github.com/msr-fiddle/CoorDL)]
 
 [2021 VLDB] **tf.data: A Machine Learning Data Processing Framework**. [[PDF](http://www.vldb.org/pvldb/vol14/p2945-klimovic.pdf)]
 
