@@ -25,6 +25,8 @@
 
 [2022 ECCV] **L3: Accelerator-Friendly Lossless Image Format for High-Resolution, High-Throughput DNN Training**. [[PDF](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136710171.pdf)]
 
+[2023 CVPR] **FFCV: Accelerating Training by Removing Data Bottlenecks**. [[PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Leclerc_FFCV_Accelerating_Training_by_Removing_Data_Bottlenecks_CVPR_2023_paper.pdf)] [[Code](https://github.com/libffcv/ffcv)]
+
 [2024 PACMMOD] **The Image Calculator: 10x Faster Image-AI Inference by Replacing JPEG with Self-designing Storage Format**. [[PDF](https://dl.acm.org/doi/abs/10.1145/3639307)]
 
 [2025 PVLDB] **Frequency-Store: Scaling Image AI by A Column-Store for Images**. [[PDF](https://www.vldb.org/cidrdb/papers/2025/p27-sirin.pdf)]
@@ -64,6 +66,8 @@
 [2022 SIGMOD] **Where Is My Training Bottleneck? Hidden Trade-Offs in Deep Learning Preprocessing Pipelines**. [[PDF](https://dl.acm.org/doi/10.1145/3514221.3517848)] [[Recording](https://youtu.be/md5NWGsMHeo)] [[Code](https://github.com/cirquit/presto)]
 
 [2022 ATC] **Cachew: Machine Learning Input Data Processing as a Service**. [[PDF](https://www.usenix.org/system/files/atc22-graur.pdf)] [[Code](https://github.com/eth-easl/cachew)]
+
+[2023 CVPR] **FFCV: Accelerating Training by Removing Data Bottlenecks**. [[PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Leclerc_FFCV_Accelerating_Training_by_Removing_Data_Bottlenecks_CVPR_2023_paper.pdf)] [[Code](https://github.com/libffcv/ffcv)]
 
 [2023 SoCC] **tf.data service: A Case for Disaggregating ML Input Data Processing**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/3620678.3624666)]
 
