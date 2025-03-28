@@ -27,6 +27,8 @@
 
 [2023 CVPR] **FFCV: Accelerating Training by Removing Data Bottlenecks**. [[PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Leclerc_FFCV_Accelerating_Training_by_Removing_Data_Bottlenecks_CVPR_2023_paper.pdf)] [[Code](https://github.com/libffcv/ffcv)]
 
+[2023 CIDR] **Deep Lake: a Lakehouse for Deep Learning**. [[PDF](https://www.cidrdb.org/cidr2023/papers/p69-buniatyan.pdf)]
+
 [2024 PACMMOD] **The Image Calculator: 10x Faster Image-AI Inference by Replacing JPEG with Self-designing Storage Format**. [[PDF](https://dl.acm.org/doi/abs/10.1145/3639307)]
 
 [2025 PVLDB] **Frequency-Store: Scaling Image AI by A Column-Store for Images**. [[PDF](https://www.vldb.org/cidrdb/papers/2025/p27-sirin.pdf)]
