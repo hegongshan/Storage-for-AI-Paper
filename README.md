@@ -1,10 +1,10 @@
 # Storage for AI
 
 * [1.Data Preparation](#data-preparation)
-    * [2.1 File Format](#file-format)
-    * [2.2 Storage System](#storage-system)
-    * [2.3 Caching System](#caching-system)
-    * [2.4 Data Pipeline](#data-pipeline)
+    * [1.1 File Format](#file-format)
+    * [1.2 Storage System](#storage-system)
+    * [1.3 Caching System](#caching-system)
+    * [1.4 Data Pipeline](#data-pipeline)
 * [2.Model Training & Inference](#model-training-&-inference)
     * [2.1 Fault Tolerance](#fault-tolerance)
         * [2.1.1 Checkpointing](#checkpointing)
@@ -59,9 +59,9 @@
 
 ### Data Pipeline
 
-[2021 VLDB] **Analyzing and Mitigating Data Stalls in DNN Training**. [[PDF](http://www.vldb.org/pvldb/vol14/p771-mohan.pdf)] [[DS-Analyzer](https://github.com/msr-fiddle/DS-Analyzer)] [[CoorDL Code](https://github.com/msr-fiddle/CoorDL)]
+[2021 PVLDB] **Analyzing and Mitigating Data Stalls in DNN Training**. [[PDF](http://www.vldb.org/pvldb/vol14/p771-mohan.pdf)] [[DS-Analyzer](https://github.com/msr-fiddle/DS-Analyzer)] [[CoorDL Code](https://github.com/msr-fiddle/CoorDL)]
 
-[2021 VLDB] **tf.data: A Machine Learning Data Processing Framework**. [[PDF](http://www.vldb.org/pvldb/vol14/p2945-klimovic.pdf)]
+[2021 PVLDB] **tf.data: A Machine Learning Data Processing Framework**. [[PDF](http://www.vldb.org/pvldb/vol14/p2945-klimovic.pdf)]
 
 [2021 ATC] **Refurbish Your Training Data: Reusing Partially Augmented Samples for Faster Deep Neural Network Training**. [[PDF](https://www.usenix.org/system/files/atc21-lee.pdf)] [[Slides](https://www.usenix.org/system/files/atc21_slides_lee.pdf)]
 
@@ -74,6 +74,8 @@
 [2023 SoCC] **tf.data service: A Case for Disaggregating ML Input Data Processing**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/3620678.3624666)]
 
 [2024 ATC] **Pecan: Cost-Efficient ML Data Preprocessing with Automatic Transformation Ordering and Hybrid Placement**. [[PDF](https://www.usenix.org/system/files/atc24-graur.pdf)] [[Code](https://github.com/eth-easl/cachew/tree/pecan)]
+
+[2025 PVLDB] **cedar: Optimized and Unified Machine Learning Input Data Pipelines**. [[PDF](https://www.vldb.org/pvldb/vol18/p488-zhao.pdf)] [[Code](https://github.com/stanford-mast/cedar)]
 
 ## Model Training & Inference
 
