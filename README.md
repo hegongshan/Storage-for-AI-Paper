@@ -127,6 +127,8 @@
 
 [2025 EuroSys] **FlowCheck: Decoupling Checkpointing and Training of Large-Scale Models**. [[PDF](https://dl.acm.org/doi/10.1145/3689031.3696088)] [[Code](https://github.com/AlibabaResearch/flowcheck-eurosys25)]
 
+[2025 NSDI] **ByteCheckpoint: A Unified Checkpointing System for Large Foundation Model Development**. [[PDF](https://www.usenix.org/system/files/nsdi25-wan-borui.pdf)] [[Code](https://github.com/ByteDance-Seed/ByteCheckpoint)]
+
 #### Others
 
 [2023 NSDI] **Bamboo: Making Preemptible Instances Resilient for Affordable Training of Large DNNs**. [[PDF](https://www.usenix.org/system/files/nsdi23-thorpe.pdf)] [[Slides](https://www.usenix.org/system/files/nsdi23_slides_thorpe-john.pdf)] [[Code](https://github.com/uclasystem/bamboo)]
