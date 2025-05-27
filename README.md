@@ -123,7 +123,7 @@
 
 [2025 ASPLOS] **PCcheck: Persistent Concurrent Checkpointing for ML**. [[PDF](https://fotstrt.github.io/files/2025-pccheck.pdf)] [[Code](https://github.com/eth-easl/pccheck)]
 
-[2025 ASPLOS] **MoC-System: Efficient Fault Tolerance for Sparse Mixture-of-Experts Model Training**. [[PDF](https://dl.acm.org/doi/10.1145/3676641.3716006)]
+[2025 ASPLOS] **MoC-System: Efficient Fault Tolerance for Sparse Mixture-of-Experts Model Training**. [[PDF](https://dl.acm.org/doi/10.1145/3676641.3716006)] [[Slides](https://jyhuang91.github.io/talks/asplos2025-moc-system-slides.pdf)]
 
 [2025 EuroSys] **FlowCheck: Decoupling Checkpointing and Training of Large-Scale Models**. [[PDF](https://dl.acm.org/doi/10.1145/3689031.3696088)] [[Code](https://github.com/AlibabaResearch/flowcheck-eurosys25)]
 
