@@ -157,6 +157,8 @@
 
 [2025 FAST] **IMPRESS: An Importance-Informed Multi-Tier Prefix KV Storage System for Large Language Model Inference**. [[PDF](https://www.usenix.org/system/files/fast25-chen-weijian-impress.pdf)] [[Slides](https://www.usenix.org/system/files/fast25_slides-chen-weijian-impress.pdf)]
 
+[2025 EuroSys] **CacheBlend: Fast Large Language Model Serving for RAG with Cached Knowledge Fusion**. [[PDF](https://doi.org/10.1145/3689031.3696098)] [[Code](https://github.com/LMCache/LMCache)]
+
 ## Benchmark
 
 [2021 CCGrid] **DLIO: A Data-Centric Benchmark for Scientific Deep Learning Applications**. [[PDF](http://www.cs.iit.edu/~scs/assets/files/devarajan2021dlio.pdf)] [[Code](https://github.com/argonne-lcf/dlio_benchmark)]
