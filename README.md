@@ -9,7 +9,7 @@
     * [2.1 Fault Tolerance](#fault-tolerance)
         * [2.1.1 Checkpointing](#checkpointing)
         * [2.1.2 Others](#others)
-    * [2.2 Model Repository](#model-repository)
+    * [2.2 Model Storage System](#model-storage-system)
     * [2.3 KV Cache](#kv-cache)
 * [3.Benchmark](#benchmark)
 * [4.Profiling/Analysis Tool](#profilinganalysis-tool)
@@ -141,11 +141,13 @@
 
 [2024 SOSP] **ReCycle: Resilient Training of Large DNNs using Pipeline Adaptation**. [[PDF](https://dl.acm.org/doi/abs/10.1145/3694715.3695960) [[Slides](https://swapnilgandhi.com/slides/recycle-sosp24.pdf)] [[Poster](https://swapnilgandhi.com/posters/ReCycle_SOSP.pdf)]
 
-### Model Repository
+### Model Storage System
 
 [2023 ICS] **DStore: A Lightweight Scalable Learning Model Repository with Fine-Grain Tensor-Level Access**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/3577193.3593730)]
 
 [2024 HPDC] **EvoStore: Towards Scalable Storage of Evolving Learning Models**. [[PDF](https://dl.acm.org/doi/abs/10.1145/3625549.3658679)]
+
+[2025 ICDE] **MLKV: Efficiently Scaling up Large Embedding Model Training with Disk-Based Key-Value Storage**. [[PDF](https://www.computer.org/csdl/proceedings-article/icde/2025/360300e134/26FZCltmgdq)] [[Code](https://github.com/llm-db/MLKV)]
 
 ### KV Cache
 
