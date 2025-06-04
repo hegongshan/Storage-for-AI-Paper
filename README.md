@@ -161,6 +161,8 @@
 
 [2025 EuroSys] **CacheBlend: Fast Large Language Model Serving for RAG with Cached Knowledge Fusion**. [[PDF](https://doi.org/10.1145/3689031.3696098)] [[Code](https://github.com/LMCache/LMCache)]
 
+[2025 ASPLOS] **vAttention: Dynamic Memory Management for Serving LLMs without PagedAttention**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/3669940.3707256)] [[Code](https://github.com/microsoft/vattention)]
+
 ## Benchmark
 
 [2021 CCGrid] **DLIO: A Data-Centric Benchmark for Scientific Deep Learning Applications**. [[PDF](http://www.cs.iit.edu/~scs/assets/files/devarajan2021dlio.pdf)] [[Code](https://github.com/argonne-lcf/dlio_benchmark)]
