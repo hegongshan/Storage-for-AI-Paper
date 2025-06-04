@@ -47,6 +47,8 @@
 
 [2024 SC] 3FS: **Fire-Flyer AI-HPC: A Cost-Effective Software-Hardware Co-Design for Deep Learning**. [[PDF](https://arxiv.org/pdf/2408.14158)] [[Code](https://github.com/deepseek-ai/3FS)]
 
+[2025 ASPLOS] **OS2G: A High-Performance DPU Offloading Architecture for GPU-based Deep Learning with Object Storage**. [[PDF](https://doi.org/10.1145/3676641.3716265)]
+
 ### Caching System
 
 [2020 FAST] **Quiver: An Informed Storage Cache for Deep Learning**. [[PDF](https://www.usenix.org/system/files/fast20-kumar.pdf)] [[Slides](https://www.usenix.org/sites/default/files/conference/protected-files/fast20_slides_kumar.pdf)]
