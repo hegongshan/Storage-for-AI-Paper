@@ -31,7 +31,7 @@
 
 [2024 PACMMOD] **The Image Calculator: 10x Faster Image-AI Inference by Replacing JPEG with Self-designing Storage Format**. [[PDF](https://dl.acm.org/doi/abs/10.1145/3639307)]
 
-[2025 PVLDB] **Frequency-Store: Scaling Image AI by A Column-Store for Images**. [[PDF](https://www.vldb.org/cidrdb/papers/2025/p27-sirin.pdf)]
+[2025 CIDR] **Frequency-Store: Scaling Image AI by A Column-Store for Images**. [[PDF](https://www.vldb.org/cidrdb/papers/2025/p27-sirin.pdf)]
 
 ### Storage System
 
@@ -130,6 +130,8 @@
 [2025 EuroSys] **FlowCheck: Decoupling Checkpointing and Training of Large-Scale Models**. [[PDF](https://dl.acm.org/doi/10.1145/3689031.3696088)] [[Code](https://github.com/AlibabaResearch/flowcheck-eurosys25)]
 
 [2025 NSDI] **ByteCheckpoint: A Unified Checkpointing System for Large Foundation Model Development**. [[PDF](https://www.usenix.org/system/files/nsdi25-wan-borui.pdf)] [[Code](https://github.com/ByteDance-Seed/ByteCheckpoint)]
+
+[2025 ATC] **Universal Checkpointing: A Flexible and Efficient Distributed Checkpointing System for Large-Scale DNN Training with Reconfigurable Parallelism**. [[Code](https://github.com/deepspeedai/DeepSpeed)]
 
 #### Others
 
