@@ -161,6 +161,8 @@
 
 [2024 OSDI] **InfiniGen: Efficient Generative Inference of Large Language Models with Dynamic KV Cache Management**. [[PDF](https://www.usenix.org/system/files/osdi24-lee.pdf)] [[Slides](https://www.usenix.org/system/files/osdi24_slides-lee.pdf)] [[Code](https://github.com/snu-comparch/InfiniGen)]
 
+[2024 ACL] **ChunkAttention: Efficient Self-Attention with Prefix-Aware KV Cache and Two-Phase Partition**. [[PDF](https://aclanthology.org/2024.acl-long.623.pdf)] [[Code](https://github.com/microsoft/chunk-attention)]
+
 [2025 FAST] **Mooncake: Trading More Storage for Less Computation — A KVCache-centric Architecture for Serving LLM Chatbot**. [[PDF](https://www.usenix.org/system/files/fast25-qin.pdf)] [[Slides](https://www.usenix.org/system/files/fast25_slides-qin.pdf)] [[Code](https://github.com/kvcache-ai/Mooncake)]
 
 [2025 FAST] **IMPRESS: An Importance-Informed Multi-Tier Prefix KV Storage System for Large Language Model Inference**. [[PDF](https://www.usenix.org/system/files/fast25-chen-weijian-impress.pdf)] [[Slides](https://www.usenix.org/system/files/fast25_slides-chen-weijian-impress.pdf)]
