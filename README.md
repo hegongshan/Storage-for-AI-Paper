@@ -157,7 +157,9 @@
 
 ### KV Cache
 
-[2023 SOSP] **Efficient Memory Management for Large Language Model Serving with PagedAttention**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/3600006.3613165)] [[Code](https://github.com/vllm-project/vllm)]
+[2023 SOSP] vLLM: **Efficient Memory Management for Large Language Model Serving with PagedAttention**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/3600006.3613165)] [[Code](https://github.com/vllm-project/vllm)]
+
+[2024 OSDI] **InfiniGen: Efficient Generative Inference of Large Language Models with Dynamic KV Cache Management**. [[PDF](https://www.usenix.org/system/files/osdi24-lee.pdf)] [[Slides](https://www.usenix.org/system/files/osdi24_slides-lee.pdf)] [[Code](https://github.com/snu-comparch/InfiniGen)]
 
 [2025 FAST] **Mooncake: Trading More Storage for Less Computation — A KVCache-centric Architecture for Serving LLM Chatbot**. [[PDF](https://www.usenix.org/system/files/fast25-qin.pdf)] [[Slides](https://www.usenix.org/system/files/fast25_slides-qin.pdf)] [[Code](https://github.com/kvcache-ai/Mooncake)]
 
