@@ -167,6 +167,8 @@
 
 [2025 ASPLOS] **vAttention: Dynamic Memory Management for Serving LLMs without PagedAttention**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/3669940.3707256)] [[Code](https://github.com/microsoft/vattention)]
 
+[2025 ASPLOS] FlashGen: **Accelerating LLM Serving for Multi-turn Dialogues with Efficient Resource Management**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/3676641.3716245)] [[Code](https://jinujeong.github.io/slides/ASPLOS25_FlashGen_Slide.pdf)]
+
 ## Benchmark
 
 [2021 CCGrid] **DLIO: A Data-Centric Benchmark for Scientific Deep Learning Applications**. [[PDF](http://www.cs.iit.edu/~scs/assets/files/devarajan2021dlio.pdf)] [[Code](https://github.com/argonne-lcf/dlio_benchmark)]
