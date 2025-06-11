@@ -75,6 +75,8 @@
 
 [2022 ATC] **Cachew: Machine Learning Input Data Processing as a Service**. [[PDF](https://www.usenix.org/system/files/atc22-graur.pdf)] [[Code](https://github.com/eth-easl/cachew)]
 
+[2022 NeurIPS] Joader: **A Deep Learning Dataloader with Shared Data Preparation**. [[PDF](https://proceedings.neurips.cc/paper_files/paper/2022/file/6d538a6e667960b168d3d947eb6207a6-Paper-Conference.pdf)]
+
 [2023 CVPR] **FFCV: Accelerating Training by Removing Data Bottlenecks**. [[PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Leclerc_FFCV_Accelerating_Training_by_Removing_Data_Bottlenecks_CVPR_2023_paper.pdf)] [[Code](https://github.com/libffcv/ffcv)]
 
 [2023 SoCC] **tf.data service: A Case for Disaggregating ML Input Data Processing**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/3620678.3624666)]
