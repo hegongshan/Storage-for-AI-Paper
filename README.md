@@ -81,6 +81,8 @@
 
 [2023 PACMMOD] **GoldMiner: Elastic Scaling of Training Data Pre-Processing Pipelines for Deep Learning**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/3589773)]
 
+[2023 PVLDB] **FastFlow: Accelerating Deep Learning Model Training with Smart Offloading of Input Data Pipeline**. [[PDF](https://www.vldb.org/pvldb/vol16/p1086-um.pdf)]
+
 [2024 ATC] **Pecan: Cost-Efficient ML Data Preprocessing with Automatic Transformation Ordering and Hybrid Placement**. [[PDF](https://www.usenix.org/system/files/atc24-graur.pdf)] [[Code](https://github.com/eth-easl/cachew/tree/pecan)]
 
 [2025 PVLDB] **cedar: Optimized and Unified Machine Learning Input Data Pipelines**. [[PDF](https://www.vldb.org/pvldb/vol18/p488-zhao.pdf)] [[Code](https://github.com/stanford-mast/cedar)]
