@@ -189,6 +189,8 @@
 
 [2021 CCGrid] **DLIO: A Data-Centric Benchmark for Scientific Deep Learning Applications**. [[PDF](http://www.cs.iit.edu/~scs/assets/files/devarajan2021dlio.pdf)] [[Code](https://github.com/argonne-lcf/dlio_benchmark)]
 
+[2024 BigData] **An Overview of the Data-Loader Landscape: Comparative Performance Analysis**. [[PDF](https://doi.org/10.1109/BigData62323.2024.10825421)] [[Code](https://github.com/smartnets/dataloader-benchmarks)]
+
 ## Profiling/Analysis Tool
 
 [2020 CLUSTER] **tf-Darshan: Understanding Fine-grained I/O Performance in Machine Learning Workloads**. [[PDF](https://arxiv.org/pdf/2008.04395)]
