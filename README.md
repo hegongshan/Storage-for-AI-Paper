@@ -1,21 +1,21 @@
 # Storage for AI
 
-* [1.Data Preparation](#data-preparation)
+* [1.Data Loading](#data-loading)
     * [1.1 Storage Format](#storage-format)
     * [1.2 Storage System](#storage-system)
     * [1.3 Caching System](#caching-system)
-    * [1.4 Data Pipeline](#data-pipeline)
-* [2.Model Training & Inference](#model-training-&-inference)
-    * [2.1 Fault Tolerance](#fault-tolerance)
-        * [2.1.1 Checkpointing](#checkpointing)
-        * [2.1.2 Others](#others)
-    * [2.2 Model Storage System](#model-storage-system)
-    * [2.3 KV Cache](#kv-cache)
-* [3.Benchmark](#benchmark)
-* [4.Profiling/Analysis Tool](#profilinganalysis-tool)
-* [5.Survey](#survey)
+* [2 Data Preprocessing](#data-preprocessing)
+* [3.Model Training & Inference](#model-training-&-inference)
+    * [3.1 Fault Tolerance](#fault-tolerance)
+        * [3.1.1 Checkpointing](#checkpointing)
+        * [3.1.2 Others](#others)
+    * [3.2 Model Storage System](#model-storage-system)
+    * [3.3 KV Cache](#kv-cache)
+* [4.Benchmark](#benchmark)
+* [5.Profiling/Analysis Tool](#profilinganalysis-tool)
+* [6.Survey](#survey)
 
-## Data Preparation
+## Data Loading
 
 ### Storage Format
 
@@ -63,7 +63,7 @@
 
 [2025 DATE] **LCache: Log-Structured SSD Caching for Training Deep Learning Models**. [[PDF](https://doi.org/10.23919/DATE64628.2025.10992907)]
 
-### Data Pipeline
+### Data Preprocessing
 
 [2021 PVLDB] **Analyzing and Mitigating Data Stalls in DNN Training**. [[PDF](http://www.vldb.org/pvldb/vol14/p771-mohan.pdf)] [[DS-Analyzer](https://github.com/msr-fiddle/DS-Analyzer)] [[CoorDL Code](https://github.com/msr-fiddle/CoorDL)]
 
@@ -88,6 +88,8 @@
 [2024 TC] **MMDataLoader: Reusing Preprocessed Data Among Concurrent Model Training Tasks**. [[PDF](https://doi.org/10.1109/TC.2023.3336161)]
 
 [2024 ATC] **Pecan: Cost-Efficient ML Data Preprocessing with Automatic Transformation Ordering and Hybrid Placement**. [[PDF](https://www.usenix.org/system/files/atc24-graur.pdf)] [[Code](https://github.com/eth-easl/cachew/tree/pecan)]
+
+[2024 DASFAA] HCache: **Reusing Your Prepared Data: An Informed Cache for Accelerating DNN Model Training**. [[PDF](https://link.springer.com/chapter/10.1007/978-981-97-5572-1_34)]
 
 [2025 PVLDB] **cedar: Optimized and Unified Machine Learning Input Data Pipelines**. [[PDF](https://www.vldb.org/pvldb/vol18/p488-zhao.pdf)] [[Code](https://github.com/stanford-mast/cedar)]
 
