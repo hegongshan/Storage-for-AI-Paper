@@ -96,6 +96,8 @@
 
 ### In-Storage/Near-Storage Data Preprocessing
 
+[2022 DAC] MSAS: **A Near-Storage Framework for Boosted Data Preprocessing of Mass Spectrum Clustering**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/3489517.3530449)]
+
 [2023 EuroPar] **Computational Storage for an Energy-Efficient Deep Neural Network Training System**. [[PDF](https://link.springer.com/chapter/10.1007/978-3-031-39698-4_21)]
 
 [2024 ISCA] **PreSto: An In-Storage Data Preprocessing System for Training Recommendation Models**. [[PDF](https://arxiv.org/pdf/2406.14571)]
