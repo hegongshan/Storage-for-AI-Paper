@@ -5,6 +5,7 @@
     * [1.2 Storage System](#storage-system)
     * [1.3 Caching System](#caching-system)
 * [2 Data Preprocessing](#data-preprocessing)
+    * [2.1 In-Storage/Near-Storage Data Preprocessing](#in-storagenear-storage-data-preprocessing)
 * [3.Model Training & Inference](#model-training-&-inference)
     * [3.1 Fault Tolerance](#fault-tolerance)
         * [3.1.1 Checkpointing](#checkpointing)
@@ -93,7 +94,9 @@
 
 [2025 PVLDB] **cedar: Optimized and Unified Machine Learning Input Data Pipelines**. [[PDF](https://www.vldb.org/pvldb/vol18/p488-zhao.pdf)] [[Code](https://github.com/stanford-mast/cedar)]
 
-### In-Storage Data Preprocessing
+### In-Storage/Near-Storage Data Preprocessing
+
+[2023 EuroPar] **Computational Storage for an Energy-Efficient Deep Neural Network Training System**. [[PDF](https://link.springer.com/chapter/10.1007/978-3-031-39698-4_21)]
 
 [2024 ISCA] **PreSto: An In-Storage Data Preprocessing System for Training Recommendation Models**. [[PDF](https://arxiv.org/pdf/2406.14571)]
 
