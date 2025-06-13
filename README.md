@@ -93,6 +93,10 @@
 
 [2025 PVLDB] **cedar: Optimized and Unified Machine Learning Input Data Pipelines**. [[PDF](https://www.vldb.org/pvldb/vol18/p488-zhao.pdf)] [[Code](https://github.com/stanford-mast/cedar)]
 
+### In-Storage Data Preprocessing
+
+[2024 ISCA] **PreSto: An In-Storage Data Preprocessing System for Training Recommendation Models**. [[PDF](https://arxiv.org/pdf/2406.14571)]
+
 ## Model Training & Inference
 
 ### Fault Tolerance
