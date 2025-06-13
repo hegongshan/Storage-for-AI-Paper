@@ -100,6 +100,8 @@
 
 [2023 EuroPar] **Computational Storage for an Energy-Efficient Deep Neural Network Training System**. [[PDF](https://link.springer.com/chapter/10.1007/978-3-031-39698-4_21)]
 
+[2024 HotStorage] SOPHON: **A Selective Preprocessing Offloading Framework for Reducing Data Traffic in DL Training**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/3655038.3665947)]
+
 [2024 ISCA] **PreSto: An In-Storage Data Preprocessing System for Training Recommendation Models**. [[PDF](https://arxiv.org/pdf/2406.14571)]
 
 ## Model Training & Inference
