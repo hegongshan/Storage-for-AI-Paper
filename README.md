@@ -111,6 +111,8 @@
 
 [2020 DAC] **Stannis: Low-Power Acceleration of DNN Training Using Computational Storage Devices**. [[PDF](https://arxiv.org/pdf/2002.07215)]
 
+[2023 HPCA] **OptimStore: In-Storage Optimization of Large Scale DNNs with On-Die Processing**. [[PDF](https://doi.org/10.1109/HPCA56546.2023.10071024)]
+
 ### Fault Tolerance
 
 #### Checkpointing
