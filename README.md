@@ -113,6 +113,10 @@
 
 [2023 HPCA] **OptimStore: In-Storage Optimization of Large Scale DNNs with On-Die Processing**. [[PDF](https://doi.org/10.1109/HPCA56546.2023.10071024)]
 
+[2024 HPCA] **Smart-Infinity: Fast Large Language Model Training using Near-Storage Processing on a Real System**. [[PDF](https://arxiv.org/pdf/2403.06664)] [[Code](https://github.com/AIS-SNU/smart-infinity)]
+
+[2024 HPCA] **FlashGNN: An In-SSD Accelerator for GNN Training**. [[PDF](https://doi.org/10.1109/HPCA57654.2024.00035)]
+
 ### Fault Tolerance
 
 #### Checkpointing
