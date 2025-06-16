@@ -8,11 +8,11 @@
     * [2.1 In-Storage/Near-Storage Data Preprocessing](#in-storagenear-storage-data-preprocessing)
 * [3.Model Training & Inference](#model-training-&-inference)
     * [3.1 In-Storage/Near-Storage Processing](#in-storagenear-storage-processing)
-    * [3.1 Fault Tolerance](#fault-tolerance)
-        * [3.1.1 Checkpointing](#checkpointing)
-        * [3.1.2 Others](#others)
-    * [3.2 Model Storage System](#model-storage-system)
-    * [3.3 KV Cache](#kv-cache)
+    * [3.2 Fault Tolerance](#fault-tolerance)
+        * [3.2.1 Checkpointing](#checkpointing)
+        * [3.2.2 Others](#others)
+    * [3.3 Model Storage System](#model-storage-system)
+    * [3.4 KV Cache](#kv-cache)
 * [4.Benchmark](#benchmark)
 * [5.Profiling/Analysis Tool](#profilinganalysis-tool)
 * [6.Survey](#survey)
@@ -110,6 +110,10 @@
 ### In-Storage/Near-Storage Processing
 
 [2020 DAC] **Stannis: Low-Power Acceleration of DNN Training Using Computational Storage Devices**. [[PDF](https://arxiv.org/pdf/2002.07215)]
+
+[2021 ASPLOS] **RecSSD: Near Data Processing for Solid State Drive Based Recommendation Inference**. [[PDF](https://arxiv.org/pdf/2102.00075)]
+
+[2022 HPCA] **RM-SSD: In-Storage Computing for Large-Scale Recommendation Inference**. [[PDF](https://doi.org/10.1109/HPCA53966.2022.00081)]
 
 [2023 HPCA] **OptimStore: In-Storage Optimization of Large Scale DNNs with On-Die Processing**. [[PDF](https://doi.org/10.1109/HPCA56546.2023.10071024)]
 
