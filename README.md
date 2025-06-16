@@ -7,6 +7,7 @@
 * [2 Data Preprocessing](#data-preprocessing)
     * [2.1 In-Storage/Near-Storage Data Preprocessing](#in-storagenear-storage-data-preprocessing)
 * [3.Model Training & Inference](#model-training-&-inference)
+    * [3.1 In-Storage/Near-Storage Processing](#in-storagenear-storage-processing)
     * [3.1 Fault Tolerance](#fault-tolerance)
         * [3.1.1 Checkpointing](#checkpointing)
         * [3.1.2 Others](#others)
@@ -105,6 +106,10 @@
 [2024 ISCA] **PreSto: An In-Storage Data Preprocessing System for Training Recommendation Models**. [[PDF](https://arxiv.org/pdf/2406.14571)]
 
 ## Model Training & Inference
+
+### In-Storage/Near-Storage Processing
+
+[2020 DAC] **Stannis: Low-Power Acceleration of DNN Training Using Computational Storage Devices**. [[PDF](https://arxiv.org/pdf/2002.07215)]
 
 ### Fault Tolerance
 
