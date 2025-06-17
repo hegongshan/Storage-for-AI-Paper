@@ -6,7 +6,7 @@
     * [1.3 Caching System](#caching-system)
 * [2 Data Preprocessing](#data-preprocessing)
     * [2.1 In-Storage/Near-Storage Data Preprocessing](#in-storagenear-storage-data-preprocessing)
-* [3.Model Training & Inference](#model-training-&-inference)
+* [3.Model Training & Inference](#model-training--inference)
     * [3.1 In-Storage/Near-Storage Processing](#in-storagenear-storage-processing)
     * [3.2 Fault Tolerance](#fault-tolerance)
         * [3.2.1 Checkpointing](#checkpointing)
@@ -120,6 +120,8 @@
 [2024 HPCA] **Smart-Infinity: Fast Large Language Model Training using Near-Storage Processing on a Real System**. [[PDF](https://arxiv.org/pdf/2403.06664)] [[Code](https://github.com/AIS-SNU/smart-infinity)]
 
 [2024 HPCA] **FlashGNN: An In-SSD Accelerator for GNN Training**. [[PDF](https://doi.org/10.1109/HPCA57654.2024.00035)]
+
+[2024 SoCC] HAPI: **Accelerating Transfer Learning with Near-Data Computation on Cloud Object Stores**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/3698038.3698549)]
 
 ### Fault Tolerance
 
