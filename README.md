@@ -37,6 +37,8 @@
 
 ### Storage System
 
+[2019 ICPP] **I/O Characterization and Performance Evaluation of BeeGFS for Deep Learning**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/3337821.3337902)]
+
 [2019 CLUSTER] DLFS: **Efficient User-Level Storage Disaggregation for Deep Learning**. [[PDF](https://par.nsf.gov/servlets/purl/10156300)]
 
 [2019 Big Data] AIStore: **High Performance I/O For Large Scale Deep Learning**. [[PDF](https://arxiv.org/pdf/2001.01858)] [[Poster](https://storagetarget.com/wp-content/uploads/2019/12/deep-learning-large-scale-phys-poster-1.pdf)] [[Code](https://github.com/NVIDIA/aistore)]
