@@ -121,6 +121,8 @@
 
 [2024 HPCA] **FlashGNN: An In-SSD Accelerator for GNN Training**. [[PDF](https://doi.org/10.1109/HPCA57654.2024.00035)]
 
+[2024 ASPLOS] **NDPipe: Exploiting Near-data Processing for Scalable Inference and Continuous Training in Photo Storage**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/3620666.3651345)] [[Code](https://github.com/dgist-datalab/NDPipe)]
+
 [2024 SoCC] HAPI: **Accelerating Transfer Learning with Near-Data Computation on Cloud Object Stores**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/3698038.3698549)]
 
 ### Fault Tolerance
