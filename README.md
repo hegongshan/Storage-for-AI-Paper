@@ -121,6 +121,14 @@
 
 [2024 HPCA] CXL-PNM: **An LPDDR-based CXL-PNM Platform for TCO-efficient Inference of Transformer-based Large Language Models**. [[PDF](https://doi.org/10.1109/HPCA57654.2024.00078)]
 
+[2024 ICS] **CLAY: CXL-based Scalable NDP Architecture Accelerating Embedding Layers**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/3650200.3656595)]
+
+[2024 ISCA] ReCXL: **Enabling Efficient Large Recommendation Model Training with Near CXL Memory Processing**. [[PDF](https://doi.org/10.1109/ISCA59077.2024.00036)]
+
+[2024 SC] **Efficient Tensor Offloading for Large Deep-Learning Model Training based on Compute Express Link**. [[PDF](https://dl.acm.org/doi/pdf/10.1109/SC41406.2024.00100)] [[Code](https://github.com/luckyq/ADSC-24)
+
+[2025 ASPLOS] CENT: **PIM Is All You Need: A CXL-Enabled GPU-Free System for Large Language Model Inferenc**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/3676641.3716267)] [[Code](https://github.com/Yufeng98/CENT)]
+
 ### In-Storage/Near-Storage Processing
 
 [2020 DAC] **Stannis: Low-Power Acceleration of DNN Training Using Computational Storage Devices**. [[PDF](https://arxiv.org/pdf/2002.07215)]
