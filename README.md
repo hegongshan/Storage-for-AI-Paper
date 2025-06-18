@@ -7,12 +7,14 @@
 * [2 Data Preprocessing](#data-preprocessing)
     * [2.1 In-Storage/Near-Storage Data Preprocessing](#in-storagenear-storage-data-preprocessing)
 * [3.Model Training & Inference](#model-training--inference)
-    * [3.1 In-Storage/Near-Storage Processing](#in-storagenear-storage-processing)
-    * [3.2 Fault Tolerance](#fault-tolerance)
-        * [3.2.1 Checkpointing](#checkpointing)
-        * [3.2.2 Others](#others)
-    * [3.3 Model Storage System](#model-storage-system)
-    * [3.4 KV Cache](#kv-cache)
+    * [3.1 Heterogeneous Storage](#heterogeneous-storage)
+        * [3.1.1 Compute Express Link (CXL)](#compute-express-link-cxl)
+    * [3.2 In-Storage/Near-Storage Processing](#in-storagenear-storage-processing)
+    * [3.3 Fault Tolerance](#fault-tolerance)
+        * [3.3.1 Checkpointing](#checkpointing)
+        * [3.3.2 Others](#others)
+    * [3.4 Model Storage System](#model-storage-system)
+    * [3.5 KV Cache](#kv-cache)
 * [4.Benchmark](#benchmark)
 * [5.Profiling/Analysis Tool](#profilinganalysis-tool)
 * [6.Survey](#survey)
@@ -110,6 +112,14 @@
 [2024 ISCA] **PreSto: An In-Storage Data Preprocessing System for Training Recommendation Models**. [[PDF](https://arxiv.org/pdf/2406.14571)]
 
 ## Model Training & Inference
+
+### Heterogeneous Storage
+
+#### Compute Express Link (CXL)
+
+[2022 HPCA] COARSE: **Enabling Efficient Large-Scale Deep Learning Training with Cache Coherent Disaggregated Memory Systems**. [[PDF](https://doi.org/10.1109/HPCA53966.2022.00018)]
+
+[2024 HPCA] CXL-PNM: **An LPDDR-based CXL-PNM Platform for TCO-efficient Inference of Transformer-based Large Language Models**. [[PDF](https://doi.org/10.1109/HPCA57654.2024.00078)]
 
 ### In-Storage/Near-Storage Processing
 
