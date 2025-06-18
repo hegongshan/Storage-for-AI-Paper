@@ -77,6 +77,8 @@
 
 [2022 SIGMOD] **Where Is My Training Bottleneck? Hidden Trade-Offs in Deep Learning Preprocessing Pipelines**. [[PDF](https://dl.acm.org/doi/10.1145/3514221.3517848)] [[Recording](https://youtu.be/md5NWGsMHeo)] [[Code](https://github.com/cirquit/presto)]
 
+[2022 DAC] READER: **A Joint Management Middleware to Improve Training Performance of Deep Recommendation Systems with SSDs**. [[PDF](https://dl.acm.org/doi/10.1145/3489517.3530426)]
+
 [2022 ATC] **Cachew: Machine Learning Input Data Processing as a Service**. [[PDF](https://www.usenix.org/system/files/atc22-graur.pdf)] [[Code](https://github.com/eth-easl/cachew)]
 
 [2022 NeurIPS] Joader: **A Deep Learning Dataloader with Shared Data Preparation**. [[PDF](https://proceedings.neurips.cc/paper_files/paper/2022/file/6d538a6e667960b168d3d947eb6207a6-Paper-Conference.pdf)]
