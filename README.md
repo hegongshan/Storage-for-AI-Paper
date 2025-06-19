@@ -4,6 +4,7 @@
     * [1.1 Storage Format](#storage-format)
     * [1.2 Storage System](#storage-system)
     * [1.3 Caching System](#caching-system)
+    * [1.4 DataLoader](#dataloader)
 * [2 Data Preprocessing](#data-preprocessing)
     * [2.1 In-Storage/Near-Storage Data Preprocessing](#in-storagenear-storage-data-preprocessing)
 * [3.Model Training & Inference](#model-training--inference)
@@ -69,6 +70,11 @@
 
 [2025 DATE] **LCache: Log-Structured SSD Caching for Training Deep Learning Models**. [[PDF](https://doi.org/10.23919/DATE64628.2025.10992907)]
 
+#### DataLoader
+
+[2024 PVLDB] GIDS: **Accelerating Sampling and Aggregation Operations in GNN
+Frameworks with GPU Initiated Direct Storage Accesses**. [[PDF](https://www.vldb.org/pvldb/vol17/p1227-park.pdf)] [[Code](https://github.com/jeongminpark417/GIDS)]
+
 ### Data Preprocessing
 
 [2021 PVLDB] **Analyzing and Mitigating Data Stalls in DNN Training**. [[PDF](http://www.vldb.org/pvldb/vol14/p771-mohan.pdf)] [[DS-Analyzer](https://github.com/msr-fiddle/DS-Analyzer)] [[CoorDL Code](https://github.com/msr-fiddle/CoorDL)]
@@ -125,9 +131,9 @@
 
 [2024 ISCA] ReCXL: **Enabling Efficient Large Recommendation Model Training with Near CXL Memory Processing**. [[PDF](https://doi.org/10.1109/ISCA59077.2024.00036)]
 
-[2024 SC] **Efficient Tensor Offloading for Large Deep-Learning Model Training based on Compute Express Link**. [[PDF](https://dl.acm.org/doi/pdf/10.1109/SC41406.2024.00100)] [[Code](https://github.com/luckyq/ADSC-24)
+[2024 SC] **Efficient Tensor Offloading for Large Deep-Learning Model Training based on Compute Express Link**. [[PDF](https://dl.acm.org/doi/pdf/10.1109/SC41406.2024.00100)] [[Code](https://github.com/luckyq/ADSC-24)]
 
-[2025 ASPLOS] CENT: **PIM Is All You Need: A CXL-Enabled GPU-Free System for Large Language Model Inferenc**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/3676641.3716267)] [[Code](https://github.com/Yufeng98/CENT)]
+[2025 ASPLOS] CENT: **PIM Is All You Need: A CXL-Enabled GPU-Free System for Large Language Model Inference**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/3676641.3716267)] [[Code](https://github.com/Yufeng98/CENT)]
 
 ### In-Storage/Near-Storage Processing
 
