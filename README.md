@@ -6,7 +6,8 @@
     * [1.3 Caching System](#caching-system)
     * [1.4 DataLoader](#dataloader)
 * [2 Data Preprocessing](#data-preprocessing)
-    * [2.1 In-Storage/Near-Storage Data Preprocessing](#in-storagenear-storage-data-preprocessing)
+    * [2.1 Disaggregated Data Preprocessing](#disaggregated-data-preprocessing)
+    * [2.2 In-Storage/Near-Storage Data Preprocessing](#in-storagenear-storage-data-preprocessing)
 * [3.Model Training & Inference](#model-training--inference)
     * [3.1 Heterogeneous Storage](#heterogeneous-storage)
         * [3.1.1 Compute Express Link (CXL)](#compute-express-link-cxl)
@@ -93,17 +94,19 @@ Frameworks with GPU Initiated Direct Storage Accesses**. [[PDF](https://www.vldb
 
 [2023 CVPR] **FFCV: Accelerating Training by Removing Data Bottlenecks**. [[PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Leclerc_FFCV_Accelerating_Training_by_Removing_Data_Bottlenecks_CVPR_2023_paper.pdf)] [[Code](https://github.com/libffcv/ffcv)]
 
+[2024 TC] **MMDataLoader: Reusing Preprocessed Data Among Concurrent Model Training Tasks**. [[PDF](https://doi.org/10.1109/TC.2023.3336161)]
+
+[2024 DASFAA] HCache: **Reusing Your Prepared Data: An Informed Cache for Accelerating DNN Model Training**. [[PDF](https://link.springer.com/chapter/10.1007/978-981-97-5572-1_34)]
+
+### Disaggregated Data Preprocessing
+
 [2023 SoCC] **tf.data service: A Case for Disaggregating ML Input Data Processing**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/3620678.3624666)]
 
 [2023 PACMMOD] **GoldMiner: Elastic Scaling of Training Data Pre-Processing Pipelines for Deep Learning**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/3589773)]
 
 [2023 PVLDB] **FastFlow: Accelerating Deep Learning Model Training with Smart Offloading of Input Data Pipeline**. [[PDF](https://www.vldb.org/pvldb/vol16/p1086-um.pdf)]
 
-[2024 TC] **MMDataLoader: Reusing Preprocessed Data Among Concurrent Model Training Tasks**. [[PDF](https://doi.org/10.1109/TC.2023.3336161)]
-
 [2024 ATC] **Pecan: Cost-Efficient ML Data Preprocessing with Automatic Transformation Ordering and Hybrid Placement**. [[PDF](https://www.usenix.org/system/files/atc24-graur.pdf)] [[Code](https://github.com/eth-easl/cachew/tree/pecan)]
-
-[2024 DASFAA] HCache: **Reusing Your Prepared Data: An Informed Cache for Accelerating DNN Model Training**. [[PDF](https://link.springer.com/chapter/10.1007/978-981-97-5572-1_34)]
 
 [2025 PVLDB] **cedar: Optimized and Unified Machine Learning Input Data Pipelines**. [[PDF](https://www.vldb.org/pvldb/vol18/p488-zhao.pdf)] [[Code](https://github.com/stanford-mast/cedar)]
 
