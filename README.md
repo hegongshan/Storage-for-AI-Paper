@@ -73,8 +73,7 @@
 
 #### DataLoader
 
-[2024 PVLDB] GIDS: **Accelerating Sampling and Aggregation Operations in GNN
-Frameworks with GPU Initiated Direct Storage Accesses**. [[PDF](https://www.vldb.org/pvldb/vol17/p1227-park.pdf)] [[Code](https://github.com/jeongminpark417/GIDS)]
+[2024 PVLDB] GIDS: **Accelerating Sampling and Aggregation Operations in GNN Frameworks with GPU Initiated Direct Storage Accesses**. [[PDF](https://www.vldb.org/pvldb/vol17/p1227-park.pdf)] [[Code](https://github.com/jeongminpark417/GIDS)]
 
 ### Data Preprocessing
 
@@ -97,6 +96,8 @@ Frameworks with GPU Initiated Direct Storage Accesses**. [[PDF](https://www.vldb
 [2024 TC] **MMDataLoader: Reusing Preprocessed Data Among Concurrent Model Training Tasks**. [[PDF](https://doi.org/10.1109/TC.2023.3336161)]
 
 [2024 DASFAA] HCache: **Reusing Your Prepared Data: An Informed Cache for Accelerating DNN Model Training**. [[PDF](https://link.springer.com/chapter/10.1007/978-981-97-5572-1_34)]
+
+[2025 ATC] HyCache: **HyCache: Hybrid Caching for Accelerating DNN Input Preprocessing Pipelines**. [[PDF](https://www.usenix.org/system/files/atc25-jha.pdf)]
 
 ### Disaggregated Data Preprocessing
 
