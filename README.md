@@ -97,7 +97,7 @@
 
 [2024 DASFAA] HCache: **Reusing Your Prepared Data: An Informed Cache for Accelerating DNN Model Training**. [[PDF](https://link.springer.com/chapter/10.1007/978-981-97-5572-1_34)]
 
-[2025 ATC] HyCache: **HyCache: Hybrid Caching for Accelerating DNN Input Preprocessing Pipelines**. [[PDF](https://www.usenix.org/system/files/atc25-jha.pdf)]
+[2025 ATC] **HyCache: Hybrid Caching for Accelerating DNN Input Preprocessing Pipelines**. [[PDF](https://www.usenix.org/system/files/atc25-jha.pdf)]
 
 ### Disaggregated Data Preprocessing
 
@@ -207,7 +207,7 @@
 
 [2025 NSDI] **ByteCheckpoint: A Unified Checkpointing System for Large Foundation Model Development**. [[PDF](https://www.usenix.org/system/files/nsdi25-wan-borui.pdf)] [[Code](https://github.com/ByteDance-Seed/ByteCheckpoint)]
 
-[2025 ATC] **Universal Checkpointing: A Flexible and Efficient Distributed Checkpointing System for Large-Scale DNN Training with Reconfigurable Parallelism**. [[Code](https://github.com/deepspeedai/DeepSpeed)]
+[2025 ATC] **Universal Checkpointing: A Flexible and Efficient Distributed Checkpointing System for Large-Scale DNN Training with Reconfigurable Parallelism**. [[PDF](https://www.usenix.org/system/files/atc25-lian.pdf)] [[Code](https://github.com/deepspeedai/DeepSpeed)]
 
 #### Others
 
