@@ -161,6 +161,8 @@
 
 #### Checkpointing
 
+[2018 SoCC] **Orpheus: Efficient Distributed Machine Learning via System and Algorithm Co-design**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/3267809.3267810)]
+
 [2020 CCGRID] **DeepFreeze: Towards Scalable Asynchronous Checkpointing of Deep Learning Models**. [[PDF](https://web.cels.anl.gov/~woz/papers/DeepFreeze_2020.pdf)]
 
 [2020 ICML] **On Efficient Constructions of Checkpoints**. [[PDF](https://proceedings.mlr.press/v119/chen20m/chen20m.pdf)]
