@@ -211,6 +211,8 @@
 
 [2025 ATC] **Universal Checkpointing: A Flexible and Efficient Distributed Checkpointing System for Large-Scale DNN Training with Reconfigurable Parallelism**. [[PDF](https://www.usenix.org/system/files/atc25-lian.pdf)] [[Code](https://github.com/deepspeedai/DeepSpeed)]
 
+[2025 HotStorage] **Quantum Neural Networks Need Checkpointing**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/3736548.3737834)] [[Code](https://github.com/Damrl-lab/Quantum-Checkpointing)]
+
 #### Others
 
 [2023 NSDI] **Bamboo: Making Preemptible Instances Resilient for Affordable Training of Large DNNs**. [[PDF](https://www.usenix.org/system/files/nsdi23-thorpe.pdf)] [[Slides](https://www.usenix.org/system/files/nsdi23_slides_thorpe-john.pdf)] [[Code](https://github.com/uclasystem/bamboo)]
