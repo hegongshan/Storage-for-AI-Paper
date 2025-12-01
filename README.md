@@ -207,6 +207,8 @@
 
 [2025 PVLDB] **IncrCP: Decomposing and Orchestrating Incremental Checkpoints for Effective Recommendation Model Training**. [[PDF](https://www.vldb.org/pvldb/vol18/p1049-du.pdf)] [[Code](https://github.com/linqy71/IncrCP_paper)]
 
+[2025 PVLDB] **DECK: Experiences on Delta Checkpointing for Industrial Recommendation Systems**. [[PDF](https://www.vldb.org/pvldb/vol18/p4978-gao.pdf)]
+
 [2025 NSDI] **ByteCheckpoint: A Unified Checkpointing System for Large Foundation Model Development**. [[PDF](https://www.usenix.org/system/files/nsdi25-wan-borui.pdf)] [[Code](https://github.com/ByteDance-Seed/ByteCheckpoint)]
 
 [2025 ATC] **Universal Checkpointing: A Flexible and Efficient Distributed Checkpointing System for Large-Scale DNN Training with Reconfigurable Parallelism**. [[PDF](https://www.usenix.org/system/files/atc25-lian.pdf)] [[Code](https://github.com/deepspeedai/DeepSpeed)]
