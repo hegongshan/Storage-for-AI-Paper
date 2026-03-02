@@ -217,6 +217,8 @@
 
 [2025 HotStorage] **Quantum Neural Networks Need Checkpointing**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/3736548.3737834)] [[Code](https://github.com/Damrl-lab/Quantum-Checkpointing)]
 
+[2026 FAST] **AdaCheck: An Adaptive Checkpointing System for Efficient LLM Training with Redundancy Utilization**. [[PDF](https://www.usenix.org/system/files/fast26-liu-weijie.pdf)] [[Code](https://github.com/HPDL-Group/Merak)]
+
 #### Others
 
 [2023 NSDI] **Bamboo: Making Preemptible Instances Resilient for Affordable Training of Large DNNs**. [[PDF](https://www.usenix.org/system/files/nsdi23-thorpe.pdf)] [[Slides](https://www.usenix.org/system/files/nsdi23_slides_thorpe-john.pdf)] [[Code](https://github.com/uclasystem/bamboo)]
