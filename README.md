@@ -101,6 +101,8 @@
 
 [2025 ATC] **HyCache: Hybrid Caching for Accelerating DNN Input Preprocessing Pipelines**. [[PDF](https://www.usenix.org/system/files/atc25-jha.pdf)]
 
+[2026 FAST] **Preparation Meets Opportunity: Enhancing Data Preprocessing for ML Training With Seneca**. [[PDF](https://www.usenix.org/system/files/fast26-desai.pdf)] [[Slides](https://www.usenix.org/system/files/fast26_slides_desai.pdf)] [[Code](https://github.com/swiftomkar/seneca-fast26-pytorch)]
+
 ### Disaggregated Data Preprocessing
 
 [2023 SoCC] **tf.data service: A Case for Disaggregating ML Input Data Processing**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/3620678.3624666)]
