@@ -31,6 +31,8 @@
 
 [2022 ECCV] **L3: Accelerator-Friendly Lossless Image Format for High-Resolution, High-Throughput DNN Training**. [[PDF](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136710171.pdf)]
 
+[2023 ICDE] **The Art of Losing to Win: Using Lossy Image Compression to Improve Data Loading in Deep Learning Pipelines**. [[PDF](https://lbeh.me/pdf/The_Art_of_Losing_to_Win.pdf)] [[Code](https://github.com/lbhm/dl2)]
+
 [2023 CVPR] **FFCV: Accelerating Training by Removing Data Bottlenecks**. [[PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Leclerc_FFCV_Accelerating_Training_by_Removing_Data_Bottlenecks_CVPR_2023_paper.pdf)] [[Code](https://github.com/libffcv/ffcv)]
 
 [2023 CIDR] **Deep Lake: a Lakehouse for Deep Learning**. [[PDF](https://www.cidrdb.org/cidr2023/papers/p69-buniatyan.pdf)]
