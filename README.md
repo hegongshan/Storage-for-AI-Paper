@@ -107,6 +107,8 @@
 
 [2026 FAST] **Preparation Meets Opportunity: Enhancing Data Preprocessing for ML Training With Seneca**. [[PDF](https://www.usenix.org/system/files/fast26-desai.pdf)] [[Slides](https://www.usenix.org/system/files/fast26_slides_desai.pdf)] [[Code](https://github.com/swiftomkar/seneca-fast26-pytorch)]
 
+[2026 EuroSys] **MinatoLoader: Accelerating Machine Learning Training Through Efficient Data Preprocessing**. [[PDF](https://arxiv.org/pdf/2509.10712)] [[Code](https://github.com/Rahm-no/MinatoLoader)]
+
 ### Disaggregated Data Preprocessing
 
 [2023 SoCC] **tf.data service: A Case for Disaggregating ML Input Data Processing**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/3620678.3624666)]
