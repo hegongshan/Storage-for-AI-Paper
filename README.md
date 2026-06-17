@@ -75,6 +75,8 @@
 
 [2025 DATE] **LCache: Log-Structured SSD Caching for Training Deep Learning Models**. [[PDF](https://doi.org/10.23919/DATE64628.2025.10992907)]
 
+[2026 IPDPS] **FitCache: A Transparent Drop-In Framework for Multi-Tier Caching to Accelerate Distributed Deep Learning Workloads**. [[PDF](https://arcb.csc.ncsu.edu/~mueller/ftp/pub/mueller/papers/ipdps26-2.pdf)] [[Code](https://github.com/Garson-hu/FitCache)]
+
 #### DataLoader
 
 [2024 PVLDB] GIDS: **Accelerating Sampling and Aggregation Operations in GNN Frameworks with GPU Initiated Direct Storage Accesses**. [[PDF](https://www.vldb.org/pvldb/vol17/p1227-park.pdf)] [[Code](https://github.com/jeongminpark417/GIDS)]
