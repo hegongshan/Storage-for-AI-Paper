@@ -59,7 +59,7 @@
 
 [2025 ASPLOS] **OS2G: A High-Performance DPU Offloading Architecture for GPU-based Deep Learning with Object Storage**. [[PDF](https://doi.org/10.1145/3676641.3716265)]
 
-[2026 NSDI] **FalconFS: Distributed File System for Large-Scale Deep Learning Pipeline**. [[PDF](https://arxiv.org/pdf/2507.10367)] [[Code](https://github.com/falcon-infra/falconfs)]
+[2026 NSDI] **FalconFS: Distributed File System for Large-Scale Deep Learning Pipeline**. [[PDF](https://www.usenix.org/system/files/nsdi26-xu.pdf)] [[Slides](https://www.usenix.org/system/files/nsdi26_slides-xu.pdf)] [[Code](https://github.com/falcon-infra/falconfs)]
 
 ### Caching System
 
