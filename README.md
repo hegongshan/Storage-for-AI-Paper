@@ -231,6 +231,8 @@
 
 [2026 FAST] **AdaCheck: An Adaptive Checkpointing System for Efficient LLM Training with Redundancy Utilization**. [[PDF](https://www.usenix.org/system/files/fast26-liu-weijie.pdf)] [[Code](https://github.com/HPDL-Group/Merak)]
 
+[2026 DAC] **AsymCheck: Asymmetric Partitioned Checkpointing for Efficient Large Language Model Training**. [[PDF](https://zhangqiangming.github.io/papers/12_DAC2026.pdf)] [[Code](https://github.com/zqming-cs/AsymCheck)]
+
 #### Others
 
 [2023 NSDI] **Bamboo: Making Preemptible Instances Resilient for Affordable Training of Large DNNs**. [[PDF](https://www.usenix.org/system/files/nsdi23-thorpe.pdf)] [[Slides](https://www.usenix.org/system/files/nsdi23_slides_thorpe-john.pdf)] [[Code](https://github.com/uclasystem/bamboo)]
