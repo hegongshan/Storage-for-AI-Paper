@@ -231,6 +231,8 @@
 
 [2026 FAST] **AdaCheck: An Adaptive Checkpointing System for Efficient LLM Training with Redundancy Utilization**. [[PDF](https://www.usenix.org/system/files/fast26-liu-weijie.pdf)] [[Code](https://github.com/HPDL-Group/Merak)]
 
+[2026 NSDI] **Checkmate: Zero Performance Overhead Model Checkpointing via Network Gradient Replication**. [[PDF](https://www.usenix.org/system/files/nsdi26-bhardwaj.pdf)] [[Slides](https://www.usenix.org/system/files/nsdi26_slides-bhardwaj.pdf)] [[Code](https://github.com/hipersys-team/checkmate)]
+
 [2026 DAC] **AsymCheck: Asymmetric Partitioned Checkpointing for Efficient Large Language Model Training**. [[PDF](https://zhangqiangming.github.io/papers/12_DAC2026.pdf)] [[Code](https://github.com/zqming-cs/AsymCheck)]
 
 #### Others
