@@ -235,6 +235,8 @@
 
 [2026 DAC] **AsymCheck: Asymmetric Partitioned Checkpointing for Efficient Large Language Model Training**. [[PDF](https://zhangqiangming.github.io/papers/12_DAC2026.pdf)] [[Code](https://github.com/zqming-cs/AsymCheck)]
 
+[2026 TPDS] **DataStates-LLM: Scalable Checkpointing for Transformer Models Using Composable State Providers**. [[PDF](https://doi.org/10.1109/TPDS.2026.3694405)] [[Code](https://github.com/DataStates/datastates-llm)]
+
 #### Others
 
 [2023 NSDI] **Bamboo: Making Preemptible Instances Resilient for Affordable Training of Large DNNs**. [[PDF](https://www.usenix.org/system/files/nsdi23-thorpe.pdf)] [[Slides](https://www.usenix.org/system/files/nsdi23_slides_thorpe-john.pdf)] [[Code](https://github.com/uclasystem/bamboo)]
