@@ -227,6 +227,8 @@
 
 [2025 HotStorage] **Quantum Neural Networks Need Checkpointing**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/3736548.3737834)] [[Code](https://github.com/Damrl-lab/Quantum-Checkpointing)]
 
+[2025 ICPP] **Amber: Towards Fast and Space-Efficient Incremental Checkpointing in Large Language Model Training**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/3754598.3754606)]
+
 [2025 SC] **LowDiff: Efficient Frequent Checkpointing via Low-Cost Differential for High-Performance Distributed Training Systems**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/3712285.3759891)] [[Code](https://github.com/YuchongHu/LowDiff)]
 
 [2026 FAST] **AdaCheck: An Adaptive Checkpointing System for Efficient LLM Training with Redundancy Utilization**. [[PDF](https://www.usenix.org/system/files/fast26-liu-weijie.pdf)] [[Code](https://github.com/HPDL-Group/Merak)]
