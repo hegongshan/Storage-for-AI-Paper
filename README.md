@@ -241,6 +241,8 @@
 
 [2026 TPDS] **DataStates-LLM: Scalable Checkpointing for Transformer Models Using Composable State Providers**. [[PDF](https://doi.org/10.1109/TPDS.2026.3694405)] [[Code](https://github.com/DataStates/datastates-llm)]
 
+[2026 TACO] **Fragment: Efficient DNN Checkpoint with Relaxed Model Consistency.** [[PDF](https://dl.acm.org/doi/pdf/10.1145/3830082)]
+
 #### Others
 
 [2023 NSDI] **Bamboo: Making Preemptible Instances Resilient for Affordable Training of Large DNNs**. [[PDF](https://www.usenix.org/system/files/nsdi23-thorpe.pdf)] [[Slides](https://www.usenix.org/system/files/nsdi23_slides_thorpe-john.pdf)] [[Code](https://github.com/uclasystem/bamboo)]
