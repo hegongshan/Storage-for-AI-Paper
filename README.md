@@ -241,7 +241,9 @@
 
 [2026 TPDS] **DataStates-LLM: Scalable Checkpointing for Transformer Models Using Composable State Providers**. [[PDF](https://doi.org/10.1109/TPDS.2026.3694405)] [[Code](https://github.com/DataStates/datastates-llm)]
 
-[2026 TACO] **Fragment: Efficient DNN Checkpoint with Relaxed Model Consistency.** [[PDF](https://dl.acm.org/doi/pdf/10.1145/3830082)]
+[2026 TACO] **Fragment: Efficient DNN Checkpoint with Relaxed Model Consistency**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/3830082)]
+
+[2027 EuroSys] **AdaptCP: Hotness-Aware Adaptive Checkpointing for Industry-Scale Recommendation Model Training.**
 
 #### Others
 
