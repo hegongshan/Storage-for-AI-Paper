@@ -243,7 +243,7 @@
 
 [2026 TACO] **Fragment: Efficient DNN Checkpoint with Relaxed Model Consistency**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/3830082)]
 
-[2027 EuroSys] **AdaptCP: Hotness-Aware Adaptive Checkpointing for Industry-Scale Recommendation Model Training.**
+[2027 EuroSys] **AdaptCP: Hotness-Aware Adaptive Checkpointing for Industry-Scale Recommendation Model Training.** [[PDF](https://yangrenyu.github.io/paper/eurosys2027-adaptcp.pdf)]
 
 #### Others
 
