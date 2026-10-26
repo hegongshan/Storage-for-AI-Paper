@@ -123,6 +123,8 @@
 
 [2025 PVLDB] **cedar: Optimized and Unified Machine Learning Input Data Pipelines**. [[PDF](https://www.vldb.org/pvldb/vol18/p488-zhao.pdf)] [[Code](https://github.com/stanford-mast/cedar)]
 
+[2026 EuroSys] **MegaScale-Data: Scaling Dataloader for Multisource Large Foundation Model Training**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/3767295.3803568)]
+
 ### In-Storage/Near-Storage Data Preprocessing
 
 [2022 DAC] MSAS: **A Near-Storage Framework for Boosted Data Preprocessing of Mass Spectrum Clustering**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/3489517.3530449)]
