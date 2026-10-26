@@ -113,6 +113,8 @@
 
 ### Disaggregated Data Preprocessing
 
+[2022 ISCA] DPP: **Understanding Data Storage and Ingestion for Large-Scale Deep Recommendation Model Training: Industrial Product**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/3470496.3533044)]
+
 [2023 SoCC] **tf.data service: A Case for Disaggregating ML Input Data Processing**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/3620678.3624666)]
 
 [2023 PACMMOD] **GoldMiner: Elastic Scaling of Training Data Pre-Processing Pipelines for Deep Learning**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/3589773)]
