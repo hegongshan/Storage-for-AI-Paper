@@ -261,6 +261,8 @@
 
 [2024 SOSP] **ReCycle: Resilient Training of Large DNNs using Pipeline Adaptation**. [[PDF](https://dl.acm.org/doi/abs/10.1145/3694715.3695960) [[Slides](https://swapnilgandhi.com/slides/recycle-sosp24.pdf)] [[Poster](https://swapnilgandhi.com/posters/ReCycle_SOSP.pdf)]
 
+[2027 FAST] **GEM: GPU Erasure-Coded Memory for Fast Training Recovery**. [[PDF](https://www.usenix.org/system/files/conference/fast27/fast27spring_prepub-wu.pdf)] [[Code](https://github.com/wrl297/gem)]
+
 ### Model Storage System
 
 [2023 ICS] **DStore: A Lightweight Scalable Learning Model Repository with Fine-Grain Tensor-Level Access**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/3577193.3593730)]
