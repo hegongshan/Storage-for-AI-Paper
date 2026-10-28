@@ -111,6 +111,8 @@
 
 [2026 EuroSys] **MinatoLoader: Accelerating Machine Learning Training Through Efficient Data Preprocessing**. [[PDF](https://arxiv.org/pdf/2509.10712)] [[Code](https://github.com/Rahm-no/MinatoLoader)]
 
+[2026 SC] **BatchFlow: Benefit-Aware Data Pipeline Allocation and Batch Reuse for Multi-Job Training**. [[PDF](https://www2.cs.uh.edu/~fyan/Paper/Feng-SC26.pdf)]
+
 ### Disaggregated Data Preprocessing
 
 [2022 ISCA] DPP: **Understanding Data Storage and Ingestion for Large-Scale Deep Recommendation Model Training: Industrial Product**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/3470496.3533044)]
