@@ -77,11 +77,13 @@
 
 [2026 IPDPS] **FitCache: A Transparent Drop-In Framework for Multi-Tier Caching to Accelerate Distributed Deep Learning Workloads**. [[PDF](https://arcb.csc.ncsu.edu/~mueller/ftp/pub/mueller/papers/ipdps26-2.pdf)] [[Code](https://github.com/Garson-hu/FitCache)]
 
-#### DataLoader
+### DataLoader
 
 [2024 PVLDB] GIDS: **Accelerating Sampling and Aggregation Operations in GNN Frameworks with GPU Initiated Direct Storage Accesses**. [[PDF](https://www.vldb.org/pvldb/vol17/p1227-park.pdf)] [[Code](https://github.com/jeongminpark417/GIDS)]
 
-### Data Preprocessing
+[2025 arXiv] SPDL: **Scalable and Performant Data Loading**. [[PDF](https://arxiv.org/pdf/2504.20067)] [[Code](https://github.com/facebookresearch/spdl)]
+
+## Data Preprocessing
 
 [2021 PVLDB] **Analyzing and Mitigating Data Stalls in DNN Training**. [[PDF](http://www.vldb.org/pvldb/vol14/p771-mohan.pdf)] [[DS-Analyzer](https://github.com/msr-fiddle/DS-Analyzer)] [[CoorDL Code](https://github.com/msr-fiddle/CoorDL)]
 
