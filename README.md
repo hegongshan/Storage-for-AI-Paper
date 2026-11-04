@@ -77,11 +77,11 @@
 
 [2026 IPDPS] **FitCache: A Transparent Drop-In Framework for Multi-Tier Caching to Accelerate Distributed Deep Learning Workloads**. [[PDF](https://arcb.csc.ncsu.edu/~mueller/ftp/pub/mueller/papers/ipdps26-2.pdf)] [[Code](https://github.com/Garson-hu/FitCache)]
 
+[2026 ICPP] **PINCH: Predictive Importance-Sampling-Informed Cache for I/O-Bound DNN Training**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/3832810.3832851)]
+
 ### DataLoader
 
 [2024 PVLDB] GIDS: **Accelerating Sampling and Aggregation Operations in GNN Frameworks with GPU Initiated Direct Storage Accesses**. [[PDF](https://www.vldb.org/pvldb/vol17/p1227-park.pdf)] [[Code](https://github.com/jeongminpark417/GIDS)]
-
-[2025 arXiv] SPDL: **Scalable and Performant Data Loading**. [[PDF](https://arxiv.org/pdf/2504.20067)] [[Code](https://github.com/facebookresearch/spdl)]
 
 ## Data Preprocessing
 
@@ -104,6 +104,8 @@
 [2024 TC] **MMDataLoader: Reusing Preprocessed Data Among Concurrent Model Training Tasks**. [[PDF](https://doi.org/10.1109/TC.2023.3336161)]
 
 [2024 DASFAA] HCache: **Reusing Your Prepared Data: An Informed Cache for Accelerating DNN Model Training**. [[PDF](https://link.springer.com/chapter/10.1007/978-981-97-5572-1_34)]
+
+[2025 arXiv] SPDL: **Scalable and Performant Data Loading**. [[PDF](https://arxiv.org/pdf/2504.20067)] [[Code](https://github.com/facebookresearch/spdl)]
 
 [2025 ATC] **HyCache: Hybrid Caching for Accelerating DNN Input Preprocessing Pipelines**. [[PDF](https://www.usenix.org/system/files/atc25-jha.pdf)] [[Video](https://www.youtube.com/watch?v=kZ41xCyAlKM)] [[Code](https://github.com/keshavvinayak01/hcLib)]
 
