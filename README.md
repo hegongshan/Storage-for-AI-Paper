@@ -105,6 +105,8 @@
 
 [2024 DASFAA] HCache: **Reusing Your Prepared Data: An Informed Cache for Accelerating DNN Model Training**. [[PDF](https://link.springer.com/chapter/10.1007/978-981-97-5572-1_34)]
 
+[2024 ICCD] **FastMatch: Enhancing Data Pipeline Efficiency for Accelerated Distributed Training**. [[PDF](https://jianchang.su/uploads/FastMatch_ICCD_2024.pdf)]
+
 [2025 arXiv] SPDL: **Scalable and Performant Data Loading**. [[PDF](https://arxiv.org/pdf/2504.20067)] [[Code](https://github.com/facebookresearch/spdl)]
 
 [2025 ATC] **HyCache: Hybrid Caching for Accelerating DNN Input Preprocessing Pipelines**. [[PDF](https://www.usenix.org/system/files/atc25-jha.pdf)] [[Video](https://www.youtube.com/watch?v=kZ41xCyAlKM)] [[Code](https://github.com/keshavvinayak01/hcLib)]
