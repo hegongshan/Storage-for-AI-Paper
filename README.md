@@ -75,6 +75,8 @@
 
 [2025 DATE] **LCache: Log-Structured SSD Caching for Training Deep Learning Models**. [[PDF](https://doi.org/10.23919/DATE64628.2025.10992907)]
 
+[2025 ICPP] **SpiderCache: Semantic-Aware Caching Strategy for DNN Training**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/3754598.3754672)]
+
 [2026 IPDPS] **FitCache: A Transparent Drop-In Framework for Multi-Tier Caching to Accelerate Distributed Deep Learning Workloads**. [[PDF](https://arcb.csc.ncsu.edu/~mueller/ftp/pub/mueller/papers/ipdps26-2.pdf)] [[Code](https://github.com/Garson-hu/FitCache)]
 
 [2026 ICPP] **PINCH: Predictive Importance-Sampling-Informed Cache for I/O-Bound DNN Training**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/3832810.3832851)]
