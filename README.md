@@ -213,6 +213,8 @@
 
 [2024 HPDC] **DataStates-LLM: Lazy Asynchronous Checkpointing for Large Language Models**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/3625549.3658685)] [[Code](https://github.com/DataStates/datastates-llm)]
 
+[2024 arXiv] **FastPersist: Accelerating Model Checkpointing in Deep Learning**. [[PDF](https://arxiv.org/pdf/2406.13768)]
+
 [2024 ICML] **ExCP: Extreme LLM Checkpoint Compression via Weight-Momentum Joint Shrinking**. [[PDF](https://openreview.net/pdf?id=hlvKd7Vdxm)] [[Code](https://github.com/Gaffey/ExCP)]
 
 [2024 ICCD] **ParaCkpt: Heterogeneous Multi-Path Checkpointing Mechanism for Training Deep Learning Models**. [[PDF](https://doi.org/10.1109/ICCD63220.2024.00036)]
