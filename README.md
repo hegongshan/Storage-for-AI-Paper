@@ -41,6 +41,8 @@
 
 [2025 CIDR] **Frequency-Store: Scaling Image AI by A Column-Store for Images**. [[PDF](https://www.vldb.org/cidrdb/papers/2025/p27-sirin.pdf)]
 
+[2026 arXiv] **FFSlim: An Efficient and Lightweight Format for Multi-modal Data Storage and Retrieval**. [[PDF](https://arxiv.org/pdf/2608.27865)]
+
 ### Storage System
 
 [2019 ICPP] **I/O Characterization and Performance Evaluation of BeeGFS for Deep Learning**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/3337821.3337902)]
