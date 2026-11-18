@@ -63,6 +63,8 @@
 
 [2026 NSDI] **FalconFS: Distributed File System for Large-Scale Deep Learning Pipeline**. [[PDF](https://www.usenix.org/system/files/nsdi26-xu.pdf)] [[Slides](https://www.usenix.org/system/files/nsdi26_slides-xu.pdf)] [[Code](https://github.com/falcon-infra/falconfs)]
 
+[2026 arXiv] **GetBatch: Distributed Multi-Object Retrieval for ML Data Loading**. [[PDF](https://arxiv.org/pdf/2602.22434) [[Code](https://github.com/NVIDIA/aistore)]
+
 ### Caching System
 
 [2020 FAST] **Quiver: An Informed Storage Cache for Deep Learning**. [[PDF](https://www.usenix.org/system/files/fast20-kumar.pdf)] [[Slides](https://www.usenix.org/sites/default/files/conference/protected-files/fast20_slides_kumar.pdf)]
